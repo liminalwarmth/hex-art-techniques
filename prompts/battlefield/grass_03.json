@@ -1,0 +1,34 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 1 of 1179 edge px",
+    "zone overlap: IoU 0.985",
+    "scale: 1.044",
+    "fills its zone: 0.998 opaque",
+    "stays in its hex: 0.000 cut beyond the 16 px fringe"
+  ],
+  "date": "2026-10-25T08:53:21Z",
+  "dimensions": {
+    "height": 512,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "hex_cap",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0437,
+    "scale_error": 0.0437,
+    "tx": 0,
+    "ty": 1.3333
+  },
+  "raw_sha256": "5f2bd5e16470b12f663006e1ddbf3ea71b8bacfa7896964b459433bb6244b125",
+  "subject": "short temperate meadow grass in a muted natural sage-olive green (a soft grass green around #6E7A42, never yellow, never bright), with a few slightly taller sedge blades and scattered tiny white and pale yellow flowers; low micro-contrast and an even overall value, so identical and neighbouring tiles blend seamlessly",
+  "texture_bytes": 1048576,
+  "asset": "assets/terrain/caps/grass_03.png",
+  "asset_sha256": "b91e27f3f300d49fd424e896030df3c9bc3cba2a551cdf5dc1e6490c812c3499",
+  "prompt": "prompts/battlefield/grass_03.txt",
+  "template_family": "hex_cap",
+  "style_reference": [
+    "references/hex_cap_1.png"
+  ]
+}

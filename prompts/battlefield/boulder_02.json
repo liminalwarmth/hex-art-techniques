@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 648 edge px",
+    "size: 224 px (224)",
+    "lit from upper left: 1.34x"
+  ],
+  "date": "2026-10-25T09:06:46Z",
+  "dimensions": {
+    "height": 288,
+    "scale": 2,
+    "width": 288
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.9295,
+    "tx": -9.6856,
+    "ty": 5.4274
+  },
+  "raw_sha256": "c40db3ef94523c55ed00e1b79f33c165e0cdec4d7529d4c70541f6ea65b763b5",
+  "subject": "two greige limestone rocks, the smaller leaning against the larger, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 331776,
+  "variant": "rock",
+  "asset": "assets/environment/props/boulder_02.png",
+  "asset_sha256": "0d7546ea6edc49fd4992b9ccec74110f4c7b12d52f7c1ec958a3dd89a22d6b84",
+  "prompt": "prompts/battlefield/boulder_02.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

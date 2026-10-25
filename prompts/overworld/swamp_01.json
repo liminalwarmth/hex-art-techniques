@@ -1,0 +1,35 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 433 edge px",
+    "zone overlap: IoU 0.997",
+    "scale: 1.025",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.000 cut beyond the 6 px fringe"
+  ],
+  "date": "2026-10-25T08:58:04Z",
+  "dimensions": {
+    "height": 152,
+    "scale": 4,
+    "width": 136
+  },
+  "family": "world_tile",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.025,
+    "scale_error": 0.025,
+    "tx": 0,
+    "ty": 0
+  },
+  "raw_sha256": "b5bb20d8e94151b8c07f97b3a96b528e804c1ea787263b7d0b17833b6765e0fd",
+  "subject": "a murky swamp: dark olive bog with pools of still brown-green water and mossy tussocks",
+  "texture_bytes": 82688,
+  "variant": "ground",
+  "asset": "assets/worldmap/tiles/swamp_01.png",
+  "asset_sha256": "86d16488294de2782288c33e28399ae844030459c71d6ab71878b3e9bda77d2d",
+  "prompt": "prompts/overworld/swamp_01.txt",
+  "template_family": "world_tile",
+  "style_reference": [
+    "references/world_tile_1.png"
+  ]
+}

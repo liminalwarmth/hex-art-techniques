@@ -1,0 +1,35 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 218 edge px",
+    "zone overlap: IoU 0.809",
+    "scale: 1.073",
+    "fills its zone: 0.966 opaque",
+    "stays in its hex: 0.069 cut beyond the 6 px fringe"
+  ],
+  "date": "2026-10-25T09:04:28Z",
+  "dimensions": {
+    "height": 152,
+    "scale": 4,
+    "width": 136
+  },
+  "family": "world_tile",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0729,
+    "scale_error": 0.0729,
+    "tx": -1.3333,
+    "ty": 0
+  },
+  "raw_sha256": "0488a31b40500221de57ae0baf1b0e4a0a9c36543acfa6436f352c449ac68469",
+  "subject": "a narrow river of clear blue-green water with soft muddy banks and a few reeds",
+  "texture_bytes": 82688,
+  "variant": "river",
+  "asset": "assets/worldmap/rivers/river_se.png",
+  "asset_sha256": "e047c511e8654b1efa5ca7966b984d9b9154d1f4bd87f031fc08e33137108a4a",
+  "prompt": "prompts/overworld/river_se.txt",
+  "template_family": "world_tile",
+  "style_reference": [
+    "references/world_tile_1.png"
+  ]
+}

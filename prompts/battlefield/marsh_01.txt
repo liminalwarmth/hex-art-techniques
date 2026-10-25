@@ -1,0 +1,9 @@
+Use your image generation tool (edit mode, with the images in this directory as inputs). The images are this game's own original art; never copy any other game.
+
+Style: hand-painted battlefield terrain for a fantasy tactical game, matching the style references in this directory (the game's approved battle mockup): seen from the same high three-quarter view, muted natural colours (olive grass, umber soil, greige stone), soft painterly detail with LOW micro-contrast so painted figures standing on it stay the most readable thing on screen, key light from the upper left.
+
+Template: template.png is a 1024x1024 canvas holding a magenta hexagon: the flat top face of one hexagonal battlefield tile seen from a high three-quarter view. Paint ONE patch of a boggy marsh: dark peaty mud with shallow brown-green puddles, clumps of muted olive sedge and a few reeds, the puddles kept away from the tile's edges; low micro-contrast and an even overall value, so identical and neighbouring tiles blend seamlessly exactly filling the hexagon to its edges (a little soft, ragged grass or soil may spill over the outline), the top face only: no side, no cliff, no props, no figures.
+
+Output: an image of the SAME 1024x1024 framing that contains ONLY the ground, on a perfectly flat, uniform pure chroma green #00FF00 background everywhere outside it (no gradient, texture, vignette, cast shadow or glow onto the green); the painting itself contains no pure green: remove every magenta guide. No text, no ground shadow, nothing else.
+
+Save the generated image as raw.png in the current directory by copying it unchanged from wherever the tool writes it (usually ~/.codex/generated_images/). Do not edit, crop, resize, recentre or regenerate it, even if it looks imperfect: one generation only. Then print the final file path and pixel dimensions.

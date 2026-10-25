@@ -1,0 +1,33 @@
+{
+  "attempt": 3,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 1566 edge px",
+    "size: 104 px (104)",
+    "lit from upper left: 1.26x"
+  ],
+  "date": "2026-10-25T09:31:07Z",
+  "dimensions": {
+    "height": 160,
+    "scale": 2,
+    "width": 224
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.8109,
+    "tx": 0.7541,
+    "ty": 1.2008
+  },
+  "raw_sha256": "d4f96d2b0c5cb9e621c79706de47b0c7aba06dfbef3ac8c8e47e117f6f5ff519",
+  "subject": "a small clump of pale blue cornflowers among a little muted green grass, painted with broad, thick blades and leaves and no hair-thin wisps or pale tips, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 143360,
+  "variant": "clutter",
+  "asset": "assets/environment/clutter/flowers_03.png",
+  "asset_sha256": "2cd88085e05a7220da7d1590b76750ba2617f4dae1d99299cb9cbb4402447ca5",
+  "prompt": "prompts/battlefield/flowers_03.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

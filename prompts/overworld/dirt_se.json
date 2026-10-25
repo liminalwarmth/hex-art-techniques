@@ -1,0 +1,35 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 144 edge px",
+    "zone overlap: IoU 1.000",
+    "scale: 0.990",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.002 cut beyond the 6 px fringe"
+  ],
+  "date": "2026-10-25T06:01:42Z",
+  "dimensions": {
+    "height": 152,
+    "scale": 4,
+    "width": 136
+  },
+  "family": "world_tile",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.9896,
+    "scale_error": -0.0104,
+    "tx": 0,
+    "ty": 0
+  },
+  "raw_sha256": "dca00fb9971ee2e2b6f421dc86158d84dd193c26fcce75d06b251923f8515ec3",
+  "subject": "a narrow rutted dirt road of packed brown earth with a few pebbles and soft grassy verges",
+  "texture_bytes": 82688,
+  "variant": "road",
+  "asset": "assets/worldmap/roads/dirt_se.png",
+  "asset_sha256": "0fdee22d235de9e8e83176182aef66d6c8c98738c86ac0c1d941acdba9ac7c11",
+  "prompt": "prompts/overworld/dirt_se.txt",
+  "template_family": "world_tile",
+  "style_reference": [
+    "references/world_tile_1.png"
+  ]
+}

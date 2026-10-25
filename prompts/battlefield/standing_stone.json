@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 784 edge px",
+    "size: 352 px (352)",
+    "lit from upper left: 1.54x"
+  ],
+  "date": "2026-10-25T09:09:22Z",
+  "dimensions": {
+    "height": 416,
+    "scale": 2,
+    "width": 288
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.885,
+    "tx": -2.1121,
+    "ty": 15.7064
+  },
+  "raw_sha256": "60ec42605d197adc3406085d0e511c244654acd778e01c31f2ff6016aaf1156b",
+  "subject": "a tall weathered standing stone: a rough grey menhir, slightly leaning, with faint worn carved spirals and patches of lichen, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 479232,
+  "variant": "standing",
+  "asset": "assets/environment/props/standing_stone.png",
+  "asset_sha256": "8bc09c6e0e74513e7567c8dddaf34cea7d745eb89328bb0877f38b527f5ff93f",
+  "prompt": "prompts/battlefield/standing_stone.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

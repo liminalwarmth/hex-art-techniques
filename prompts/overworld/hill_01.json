@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 284 edge px",
+    "size: 72 px (72)",
+    "lit from upper left: 1.28x"
+  ],
+  "date": "2026-10-25T09:09:17Z",
+  "dimensions": {
+    "height": 128,
+    "scale": 4,
+    "width": 160
+  },
+  "family": "doodad",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0213,
+    "tx": -0.74,
+    "ty": 0.2979
+  },
+  "raw_sha256": "4fab0859206078cc825abdf44ccec44602a5160d4b749a9d919e70ded13e6e42",
+  "subject": "a low rounded grassy hill with a few exposed grey rocks, lit by a low sun from the upper left: upper-left sides bright, lower-right sides in shade",
+  "texture_bytes": 81920,
+  "variant": "hill",
+  "asset": "assets/worldmap/doodads/hill_01.png",
+  "asset_sha256": "9f789423253f661886dc0b35e12f957d92f2ee848775519bcb425f18a83f9b5a",
+  "prompt": "prompts/overworld/hill_01.txt",
+  "template_family": "doodad",
+  "style_reference": [
+    "references/doodad_1.png"
+  ]
+}

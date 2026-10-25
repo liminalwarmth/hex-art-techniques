@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 1055 edge px",
+    "size: 120 px (120)",
+    "lit from upper left: 1.18x"
+  ],
+  "date": "2026-10-25T09:07:01Z",
+  "dimensions": {
+    "height": 160,
+    "scale": 4,
+    "width": 160
+  },
+  "family": "doodad",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.9581,
+    "tx": -4.3117,
+    "ty": 0.8144
+  },
+  "raw_sha256": "90798f10f817159ecdbb18e3e95ab9d664fdbe39adcca103ba6e5900e7ab4a10",
+  "subject": "a cluster of four broad old oak trees with full rounded dark green crowns, lit by a low sun from the upper left: upper-left sides bright, lower-right sides in shade",
+  "texture_bytes": 102400,
+  "variant": "forest",
+  "asset": "assets/worldmap/doodads/forest_02.png",
+  "asset_sha256": "2dd37b27aa7a016e98e419be164028864821d2ebd112bff5aec63966f8098d4a",
+  "prompt": "prompts/overworld/forest_02.txt",
+  "template_family": "doodad",
+  "style_reference": [
+    "references/doodad_1.png"
+  ]
+}

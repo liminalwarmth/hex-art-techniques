@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 5 of 9153 edge px",
+    "size: 601 px (600)",
+    "lit from upper left: 1.48x"
+  ],
+  "date": "2026-10-25T09:02:56Z",
+  "dimensions": {
+    "height": 704,
+    "scale": 2,
+    "width": 640
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.9057,
+    "tx": 3.4913,
+    "ty": 36.2542
+  },
+  "raw_sha256": "8d17380a4eac6d1d219128a52880881327245a6a1487a5a5db933c06c1bfc70a",
+  "subject": "a younger oak with a slightly leaning trunk and a looser, irregular canopy of muted green leaves, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 1802240,
+  "variant": "tree",
+  "asset": "assets/environment/props/oak_02.png",
+  "asset_sha256": "d0d6b91694fa5601d7fcf8dddfaf60b20e2671d4ef7ae13d8481e5f173681871",
+  "prompt": "prompts/battlefield/oak_02.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

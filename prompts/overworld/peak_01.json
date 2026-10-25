@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 758 edge px",
+    "size: 180 px (180)",
+    "lit from upper left: 1.55x"
+  ],
+  "date": "2026-10-25T09:10:42Z",
+  "dimensions": {
+    "height": 224,
+    "scale": 4,
+    "width": 256
+  },
+  "family": "doodad",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.8717,
+    "tx": 0.1837,
+    "ty": 1.3923
+  },
+  "raw_sha256": "eb0568c49fbca903464ab30dd0c6d00f0937b88f5be0d54b2b60e434272c5076",
+  "subject": "a jagged grey granite mountain peak with snow on its summit, lit by a low sun from the upper left: upper-left sides bright, lower-right sides in shade",
+  "texture_bytes": 229376,
+  "variant": "peak",
+  "asset": "assets/worldmap/doodads/peak_01.png",
+  "asset_sha256": "e9f2734395aeaa7a9d194e5550f5eb008251a488413c5c98ea89899a23b40299",
+  "prompt": "prompts/overworld/peak_01.txt",
+  "template_family": "doodad",
+  "style_reference": [
+    "references/doodad_1.png"
+  ]
+}

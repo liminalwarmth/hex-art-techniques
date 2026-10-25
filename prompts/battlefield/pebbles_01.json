@@ -1,0 +1,33 @@
+{
+  "attempt": 2,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 431 edge px",
+    "size: 40 px (40)",
+    "lit from upper left: 1.32x"
+  ],
+  "date": "2026-10-25T09:27:33Z",
+  "dimensions": {
+    "height": 128,
+    "scale": 2,
+    "width": 288
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.7547,
+    "tx": 3.0082,
+    "ty": 5.4906
+  },
+  "raw_sha256": "6d51c1ea821be60afd37da190e1ff7322d6fa8fdae7fb6ace7e979a351f09a70",
+  "subject": "a small scatter of rounded grey pebbles and two flat stones lying on the ground, lit by a low sun from the upper left: its upper-left faces bright and warm, its lower-right faces in deep cool shade",
+  "texture_bytes": 147456,
+  "variant": "scatter",
+  "asset": "assets/environment/clutter/pebbles_01.png",
+  "asset_sha256": "80be9cabf8ed9cddac36a7ebaa5f25c7ddf843438b5785ea9b761ed8d27a72d5",
+  "prompt": "prompts/battlefield/pebbles_01.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

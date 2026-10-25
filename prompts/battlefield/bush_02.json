@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 1 of 5362 edge px",
+    "size: 224 px (224)",
+    "lit from upper left: 1.30x"
+  ],
+  "date": "2026-10-25T09:05:41Z",
+  "dimensions": {
+    "height": 288,
+    "scale": 2,
+    "width": 288
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.9912,
+    "tx": -1.2049,
+    "ty": 3.7345
+  },
+  "raw_sha256": "1a0d53e5ea4ff5f4f3d2b85ee57f30a337948e4bb8bae89b3c98976ab93f4730",
+  "subject": "a low, wide bramble thicket of tangled green-brown stems and leaves, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 331776,
+  "variant": "bush",
+  "asset": "assets/environment/props/bush_02.png",
+  "asset_sha256": "4af424ab8fc9167f69f776543a8232544ff20cc00c43e04e1f01f74c47276711",
+  "prompt": "prompts/battlefield/bush_02.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

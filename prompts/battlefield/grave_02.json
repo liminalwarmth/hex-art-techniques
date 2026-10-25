@@ -1,0 +1,33 @@
+{
+  "attempt": 2,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 1 of 663 edge px",
+    "size: 128 px (128)",
+    "lit from upper left: 1.49x"
+  ],
+  "date": "2026-10-25T09:23:04Z",
+  "dimensions": {
+    "height": 224,
+    "scale": 2,
+    "width": 288
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.7853,
+    "tx": 6.8418,
+    "ty": 17.7669
+  },
+  "raw_sha256": "7ef331810d1f38e3690271e4d777aa4e2cdef97cac5aab6121fd7d57cc52b628",
+  "subject": "an old grave: a tilted moss-covered stone headstone with a low mound of short grass in front of it, lit by a low sun from the upper left: its upper-left faces bright and warm, its lower-right faces in deep cool shade",
+  "texture_bytes": 258048,
+  "variant": "low",
+  "asset": "assets/environment/props/grave_02.png",
+  "asset_sha256": "0ae4afef92650fffa1e820e41043a378f7ab695c7c8ca1ac2fecb5a087778550",
+  "prompt": "prompts/battlefield/grave_02.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

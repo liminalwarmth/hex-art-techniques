@@ -1,0 +1,35 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 1651 edge px",
+    "zone overlap: IoU 0.956",
+    "scale: 1.031",
+    "fills its zone: 0.972 opaque",
+    "stays in its hex: 0.000 cut beyond the 16 px fringe"
+  ],
+  "date": "2026-10-25T08:14:57Z",
+  "dimensions": {
+    "height": 608,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "cliff_band",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0312,
+    "scale_error": 0.0312,
+    "tx": -1.3333,
+    "ty": -1.3333
+  },
+  "raw_sha256": "2b9e118a95e264dc659aeb69935701d4caa65b5603348e6a45d0f8646fc2bb7f",
+  "subject": "a cliff face of weathered greige limestone blocks laid in rough horizontal courses, small grass tufts and moss in the joints, a thin overhanging lip of grass along its top edge",
+  "texture_bytes": 1245184,
+  "variant": "step2",
+  "asset": "assets/terrain/cliffs/limestone_2.png",
+  "asset_sha256": "ffa1d9274999db5956ae9d088c167c7964bf72d945210cd5263d402c016acc1c",
+  "prompt": "prompts/battlefield/limestone_2.txt",
+  "template_family": "cliff_band",
+  "style_reference": [
+    "references/cliff_band_1.png"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "attempt": 2,
+  "checks": [
+    "no light halo: 0 of 1328 edge px",
+    "zone overlap: IoU 0.985",
+    "scale: 1.044",
+    "fills its zone: 0.998 opaque",
+    "stays in its hex: 0.000 cut beyond the 16 px fringe"
+  ],
+  "date": "2026-10-25T09:20:22Z",
+  "dimensions": {
+    "height": 512,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "hex_cap",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0437,
+    "scale_error": 0.0437,
+    "tx": -1.3333,
+    "ty": 0
+  },
+  "raw_sha256": "331ef71e5e65fc7247161fa0a7c99413cfee3653b161c07392aca6e9e3d8c0fe",
+  "subject": "short temperate meadow grass in the same muted olive-khaki green as the grass in the style reference (around #736A34, never bright or blue-green), evenly grown with gentle tonal variation and a few tiny pale clover leaves; low micro-contrast and an even overall value, so identical and neighbouring tiles blend seamlessly",
+  "texture_bytes": 1048576,
+  "asset": "assets/terrain/caps/grass_01.png",
+  "asset_sha256": "760567070ee9cc23b1494eb5957a9f6ab0e3fa6ba137822f31e14f91c7d36cc6",
+  "prompt": "prompts/battlefield/grass_01.txt",
+  "template_family": "hex_cap",
+  "style_reference": [
+    "references/hex_cap_1.png"
+  ]
+}

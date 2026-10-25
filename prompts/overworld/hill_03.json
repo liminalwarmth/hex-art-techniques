@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 334 edge px",
+    "size: 72 px (72)",
+    "lit from upper left: 1.33x"
+  ],
+  "date": "2026-10-25T09:10:08Z",
+  "dimensions": {
+    "height": 128,
+    "scale": 4,
+    "width": 160
+  },
+  "family": "doodad",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.878,
+    "tx": -7.6844,
+    "ty": -4.0854
+  },
+  "raw_sha256": "a306fa0c8406196b4cd251d0b205e9abc7b36e5cc6099e26fb9726372f620adb",
+  "subject": "a low grassy hill with a rocky outcrop on its crest, lit by a low sun from the upper left: upper-left sides bright, lower-right sides in shade",
+  "texture_bytes": 81920,
+  "variant": "hill",
+  "asset": "assets/worldmap/doodads/hill_03.png",
+  "asset_sha256": "5c94ee6c93a9cd71438cf0204512ed49d5ddbc474a161f46071a3b80f09d35b3",
+  "prompt": "prompts/overworld/hill_03.txt",
+  "template_family": "doodad",
+  "style_reference": [
+    "references/doodad_1.png"
+  ]
+}

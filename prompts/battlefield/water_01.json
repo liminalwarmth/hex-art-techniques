@@ -1,0 +1,34 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 1549 edge px",
+    "zone overlap: IoU 0.983",
+    "scale: 1.044",
+    "fills its zone: 0.994 opaque",
+    "stays in its hex: 0.000 cut beyond the 16 px fringe"
+  ],
+  "date": "2026-10-25T08:58:15Z",
+  "dimensions": {
+    "height": 512,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "hex_cap",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0437,
+    "scale_error": 0.0437,
+    "tx": -1.3333,
+    "ty": 0
+  },
+  "raw_sha256": "48c2ff1829233b109a36eeff4015a3d2aa500d3efc077efc65097f3ed68905ad",
+  "subject": "calm shallow pond water in a muted slate blue-teal (around #4F6E73), clear enough to show a soft pebbly bed, gentle ripples catching the light from the upper left, no reeds; low micro-contrast and an even overall value, so identical and neighbouring tiles blend seamlessly",
+  "texture_bytes": 1048576,
+  "asset": "assets/terrain/caps/water_01.png",
+  "asset_sha256": "c1e059e90e703d92036e4a4830a5e14cd8311395e66fa60a89790b121fe5440d",
+  "prompt": "prompts/battlefield/water_01.txt",
+  "template_family": "hex_cap",
+  "style_reference": [
+    "references/hex_cap_1.png"
+  ]
+}

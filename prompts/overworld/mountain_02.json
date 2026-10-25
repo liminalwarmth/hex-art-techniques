@@ -1,0 +1,35 @@
+{
+  "attempt": 2,
+  "checks": [
+    "no light halo: 0 of 435 edge px",
+    "zone overlap: IoU 0.999",
+    "scale: 1.031",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.000 cut beyond the 6 px fringe"
+  ],
+  "date": "2026-10-25T09:25:27Z",
+  "dimensions": {
+    "height": 152,
+    "scale": 4,
+    "width": 136
+  },
+  "family": "world_tile",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0312,
+    "scale_error": 0.0312,
+    "tx": 0,
+    "ty": 0
+  },
+  "raw_sha256": "2818cf20efa3c4644e1410b0bb3205f3072b624ac74e9b7d54768e689445e282",
+  "subject": "rocky mountain ground: dark grey slabs and boulders with lichen and cracks",
+  "texture_bytes": 82688,
+  "variant": "ground",
+  "asset": "assets/worldmap/tiles/mountain_02.png",
+  "asset_sha256": "646a97768e8eb887cce7187de02af0782ef9ba868300005174a62dc8049dc878",
+  "prompt": "prompts/overworld/mountain_02.txt",
+  "template_family": "world_tile",
+  "style_reference": [
+    "references/world_tile_1.png"
+  ]
+}

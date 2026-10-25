@@ -1,0 +1,34 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 1 of 1036 edge px",
+    "zone overlap: IoU 0.989",
+    "scale: 1.044",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.000 cut beyond the 16 px fringe"
+  ],
+  "date": "2026-10-25T08:56:18Z",
+  "dimensions": {
+    "height": 512,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "hex_cap",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0437,
+    "scale_error": 0.0437,
+    "tx": -1.3333,
+    "ty": 0
+  },
+  "raw_sha256": "52f06e7d2ea11f207c0a9f60f57672ef60490a1f3d2ef54e8b1322867005d8ae",
+  "subject": "wet churned mud in dark muted brown, softly glistening, with boot prints, two small dull puddles and a few flattened olive grass blades; low micro-contrast and an even overall value, so identical and neighbouring tiles blend seamlessly",
+  "texture_bytes": 1048576,
+  "asset": "assets/terrain/caps/mud_01.png",
+  "asset_sha256": "1c3e3dae4b0f6a63d8b405034db14fd38b7d6aa3b75460b61664c59d92c98c07",
+  "prompt": "prompts/battlefield/mud_01.txt",
+  "template_family": "hex_cap",
+  "style_reference": [
+    "references/hex_cap_1.png"
+  ]
+}

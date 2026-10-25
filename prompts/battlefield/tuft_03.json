@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 1 of 2124 edge px",
+    "size: 104 px (104)",
+    "lit from upper left: 1.29x"
+  ],
+  "date": "2026-10-25T09:12:52Z",
+  "dimensions": {
+    "height": 160,
+    "scale": 2,
+    "width": 224
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.8046,
+    "tx": -2.5877,
+    "ty": -20.0077
+  },
+  "raw_sha256": "2255bf6f8d0cbf23774bbae93f574f7a418d0d10d5aec8aa4d0a1d6a740d46a8",
+  "subject": "a small clump of bracken fern fronds in muted green, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 143360,
+  "variant": "clutter",
+  "asset": "assets/environment/clutter/tuft_03.png",
+  "asset_sha256": "e2a6e1cd17f93fdb01b19cb6018079e80dab078ee14df19547c9ffb59320d4c0",
+  "prompt": "prompts/battlefield/tuft_03.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

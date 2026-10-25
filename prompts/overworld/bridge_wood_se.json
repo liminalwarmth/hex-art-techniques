@@ -1,0 +1,35 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 246 edge px",
+    "zone overlap: IoU 0.781",
+    "scale: 0.906",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.066 cut beyond the 6 px fringe"
+  ],
+  "date": "2026-10-25T09:03:43Z",
+  "dimensions": {
+    "height": 152,
+    "scale": 4,
+    "width": 136
+  },
+  "family": "world_tile",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.9062,
+    "scale_error": -0.0938,
+    "tx": -1.3333,
+    "ty": -1
+  },
+  "raw_sha256": "057fb7de8201eb7bd3edb1e435d91b3a4e0b6596d2fc02a912f981544246817e",
+  "subject": "a narrow wooden plank bridge deck with low log railings along both sides, seen from above",
+  "texture_bytes": 82688,
+  "variant": "road",
+  "asset": "assets/worldmap/roads/bridge_wood_se.png",
+  "asset_sha256": "89d0b40d9313ffcc0494b67380b1408784a9fd4f31aa5b187f4ef40421cf6f12",
+  "prompt": "prompts/overworld/bridge_wood_se.txt",
+  "template_family": "world_tile",
+  "style_reference": [
+    "references/world_tile_1.png"
+  ]
+}

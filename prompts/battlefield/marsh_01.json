@@ -1,0 +1,34 @@
+{
+  "attempt": 2,
+  "checks": [
+    "no light halo: 0 of 1475 edge px",
+    "zone overlap: IoU 0.987",
+    "scale: 1.044",
+    "fills its zone: 0.998 opaque",
+    "stays in its hex: 0.000 cut beyond the 16 px fringe"
+  ],
+  "date": "2026-10-25T09:20:22Z",
+  "dimensions": {
+    "height": 512,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "hex_cap",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0437,
+    "scale_error": 0.0437,
+    "tx": 0,
+    "ty": 1.3333
+  },
+  "raw_sha256": "9791b9b6f68500257868005ffac00b014888f2c5489baf3ad3060ebf011170b1",
+  "subject": "a boggy marsh: dark peaty mud with shallow brown-green puddles, clumps of muted olive sedge and a few reeds, the puddles kept away from the tile's edges; low micro-contrast and an even overall value, so identical and neighbouring tiles blend seamlessly",
+  "texture_bytes": 1048576,
+  "asset": "assets/terrain/caps/marsh_01.png",
+  "asset_sha256": "b04a16ead16c46797974a95774c0c83e3287c99809f9ea520c059b63750873df",
+  "prompt": "prompts/battlefield/marsh_01.txt",
+  "template_family": "hex_cap",
+  "style_reference": [
+    "references/hex_cap_1.png"
+  ]
+}

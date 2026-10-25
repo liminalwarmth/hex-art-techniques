@@ -1,0 +1,35 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 432 edge px",
+    "zone overlap: IoU 0.996",
+    "scale: 1.025",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.000 cut beyond the 6 px fringe"
+  ],
+  "date": "2026-10-25T08:57:13Z",
+  "dimensions": {
+    "height": 152,
+    "scale": 4,
+    "width": 136
+  },
+  "family": "world_tile",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.025,
+    "scale_error": 0.025,
+    "tx": 0,
+    "ty": 0
+  },
+  "raw_sha256": "254b0af665d81a9bfd63c6bb0ff06f96db06cedbb99a02dcb8e726dfa2ba99b8",
+  "subject": "high mountain ground: grey scree and rock with a few patches of old snow",
+  "texture_bytes": 82688,
+  "variant": "ground",
+  "asset": "assets/worldmap/tiles/mountain_03.png",
+  "asset_sha256": "f6050da614509d6e632a97bc748ae716730ac52755f00fddd5056307b7b86f6a",
+  "prompt": "prompts/overworld/mountain_03.txt",
+  "template_family": "world_tile",
+  "style_reference": [
+    "references/world_tile_1.png"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "attempt": 2,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 1113 edge px",
+    "size: 104 px (104)",
+    "lit from upper left: 1.28x"
+  ],
+  "date": "2026-10-25T09:24:52Z",
+  "dimensions": {
+    "height": 160,
+    "scale": 2,
+    "width": 224
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.856,
+    "tx": -8.6884,
+    "ty": -0.1564
+  },
+  "raw_sha256": "f40eea8e7d5c273a94a36ab8974fa5911c77564dd4725e6212a7d32882e55cf0",
+  "subject": "a clump of grey-green sedge, painted with broad, thick blades and leaves and no hair-thin wisps or pale tips, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 143360,
+  "variant": "clutter",
+  "asset": "assets/environment/clutter/tuft_02.png",
+  "asset_sha256": "ae9390631bd453e28e5ccf7cb9ba6a031502545862ffade4bed5fae3ecb987eb",
+  "prompt": "prompts/battlefield/tuft_02.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

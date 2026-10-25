@@ -1,0 +1,35 @@
+{
+  "attempt": 2,
+  "checks": [
+    "no light halo: 0 of 292 edge px",
+    "zone overlap: IoU 0.996",
+    "scale: 1.031",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.000 cut beyond the 6 px fringe"
+  ],
+  "date": "2026-10-25T09:26:24Z",
+  "dimensions": {
+    "height": 152,
+    "scale": 4,
+    "width": 136
+  },
+  "family": "world_tile",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0312,
+    "scale_error": 0.0312,
+    "tx": 0,
+    "ty": 0
+  },
+  "raw_sha256": "0f24b35c291537eb551fefd55ae300d28a1e5887b6400d72c705b68f7a7345dc",
+  "subject": "lush deep green grass, clearly darker and cooler than an olive meadow (no yellow or olive tones), with darker tufts, a few ferns and small shadowed hollows",
+  "texture_bytes": 82688,
+  "variant": "ground",
+  "asset": "assets/worldmap/tiles/dark_grass_02.png",
+  "asset_sha256": "f543c43546f451529e09e071a11625c1c82cabac9c507a246353ad3475ce990c",
+  "prompt": "prompts/overworld/dark_grass_02.txt",
+  "template_family": "world_tile",
+  "style_reference": [
+    "references/world_tile_1.png"
+  ]
+}

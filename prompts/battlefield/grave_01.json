@@ -1,0 +1,33 @@
+{
+  "attempt": 2,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 812 edge px",
+    "size: 128 px (128)",
+    "lit from upper left: 1.26x"
+  ],
+  "date": "2026-10-25T09:23:00Z",
+  "dimensions": {
+    "height": 224,
+    "scale": 2,
+    "width": 288
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.795,
+    "tx": -23.3599,
+    "ty": 5.6646
+  },
+  "raw_sha256": "8ce0524b09ad5544b08788e35f83d63fc9cfc447f4fbdf2cd393cb190ba7c085",
+  "subject": "a fresh grave: a low mound of turned brown earth with a crude wooden cross at its head, lit by a low sun from the upper left: its upper-left faces bright and warm, its lower-right faces in deep cool shade",
+  "texture_bytes": 258048,
+  "variant": "low",
+  "asset": "assets/environment/props/grave_01.png",
+  "asset_sha256": "5be81ed456df1805b31f047f114d7821fbab7ad65531b5bc3000f2cfbb273384",
+  "prompt": "prompts/battlefield/grave_01.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

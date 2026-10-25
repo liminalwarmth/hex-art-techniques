@@ -1,0 +1,4 @@
+*.png binary
+*.lua text eol=lf
+*.glsl text eol=lf
+*.md text eol=lf

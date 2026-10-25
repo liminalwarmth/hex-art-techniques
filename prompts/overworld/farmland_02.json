@@ -1,0 +1,35 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 432 edge px",
+    "zone overlap: IoU 0.997",
+    "scale: 1.025",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.000 cut beyond the 6 px fringe"
+  ],
+  "date": "2026-10-25T08:54:26Z",
+  "dimensions": {
+    "height": 152,
+    "scale": 4,
+    "width": 136
+  },
+  "family": "world_tile",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.025,
+    "scale_error": 0.025,
+    "tx": 0,
+    "ty": 0
+  },
+  "raw_sha256": "6282e9dd771123dc133251bf26653398bc9b0219f776c13b84e4fd598480560f",
+  "subject": "cultivated farmland seen from above: neat parallel strips of ripe golden wheat beside a strip of ploughed earth",
+  "texture_bytes": 82688,
+  "variant": "ground",
+  "asset": "assets/worldmap/tiles/farmland_02.png",
+  "asset_sha256": "2d9d7bb416d852351555f480ad62d476dff45fcde41a7c3c3eabe73317ae4e51",
+  "prompt": "prompts/overworld/farmland_02.txt",
+  "template_family": "world_tile",
+  "style_reference": [
+    "references/world_tile_1.png"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "attempt": 2,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 4 of 9110 edge px",
+    "size: 600 px (600)",
+    "lit from upper left: 1.41x"
+  ],
+  "date": "2026-10-25T09:21:15Z",
+  "dimensions": {
+    "height": 704,
+    "scale": 2,
+    "width": 640
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.8811,
+    "tx": -4.5486,
+    "ty": 39.9571
+  },
+  "raw_sha256": "f486cb65abd4d2f952baefb3e1c3cfdcbd6d48deb4c9f4804c4157ea52743a39",
+  "subject": "a broad old oak with a thick gnarled trunk and a full rounded canopy of muted dark green leaves, the canopy a little narrower than the tree is tall, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 1802240,
+  "variant": "tree",
+  "asset": "assets/environment/props/oak_01.png",
+  "asset_sha256": "9d14e3eaa435dabb580fa65f9a43e8e8b47ec1ab49706ee8a5c060fab2fc3ac5",
+  "prompt": "prompts/battlefield/oak_01.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

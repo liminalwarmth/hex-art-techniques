@@ -1,0 +1,9 @@
+Use your image generation tool (edit mode, with the images in this directory as inputs). The images are this game's own original art; never copy any other game.
+
+Style: hand-painted fantasy overworld map art matching the style references in this directory (the game's approved overworld mockup): a painted miniature landscape seen from above at a slight angle, muted natural palette, key light from the upper left. Broad, readable shapes: it must still read when the whole hexagon is only 30 pixels wide.
+
+Template: template.png is a 1024x1024 canvas holding a magenta strip that runs from the centre of a pointy-top overworld map hexagon (the larger magenta outline) out through the middle of one of its edges. Paint ONLY a narrow grey stone bridge deck with low parapet walls along both sides, seen from above inside the strip, from the centre out to the edge, where it continues seamlessly into the next tile; do not paint the tile or any ground around it.
+
+Output: an image of the SAME 1024x1024 framing that contains ONLY the strip, on a perfectly flat, uniform pure chroma green #00FF00 background everywhere outside it (no gradient, texture, vignette, cast shadow or glow onto the green); the painting itself contains no pure green: remove every magenta guide. No text, no ground shadow, nothing else.
+
+Save the generated image as raw.png in the current directory by copying it unchanged from wherever the tool writes it (usually ~/.codex/generated_images/). Do not edit, crop, resize, recentre or regenerate it, even if it looks imperfect: one generation only. Then print the final file path and pixel dimensions.

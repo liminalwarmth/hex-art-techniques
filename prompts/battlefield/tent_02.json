@@ -1,0 +1,33 @@
+{
+  "attempt": 2,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 2009 edge px",
+    "size: 320 px (320)",
+    "lit from upper left: 1.02x"
+  ],
+  "date": "2026-10-25T09:23:55Z",
+  "dimensions": {
+    "height": 416,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.8584,
+    "tx": -59.6558,
+    "ty": 23.5882
+  },
+  "raw_sha256": "c6b07305ec10c25c25cded3356a80058138eaa894cf52cb4d0d6c4c49b8b256b",
+  "subject": "a rough bandit lean-to: animal hides and furs stretched over a frame of cut branches, a rolled bedroll beneath it, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 851968,
+  "variant": "tent",
+  "asset": "assets/environment/props/tent_02.png",
+  "asset_sha256": "c2d0e3d9f88cf13dde3e4da9456a09fa19f5eb90bea0e6c82216d78fe7ef9d46",
+  "prompt": "prompts/battlefield/tent_02.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

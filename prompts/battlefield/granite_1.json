@@ -1,0 +1,35 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 1676 edge px",
+    "zone overlap: IoU 0.926",
+    "scale: 1.037",
+    "fills its zone: 0.956 opaque",
+    "stays in its hex: 0.001 cut beyond the 16 px fringe"
+  ],
+  "date": "2026-10-25T09:01:02Z",
+  "dimensions": {
+    "height": 512,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "cliff_band",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0375,
+    "scale_error": 0.0375,
+    "tx": -1.3333,
+    "ty": -4
+  },
+  "raw_sha256": "69e76f93a6bb04daf60f8d52c8c444a798e0eb4e37879cc2b8ad49bb3a5a5bf5",
+  "subject": "a cliff face of dark blue-grey granite split into rough vertical slabs and fractured planes, with patches of moss and pale lichen and a thin lip of grass along its top edge",
+  "texture_bytes": 1048576,
+  "variant": "step1",
+  "asset": "assets/terrain/cliffs/granite_1.png",
+  "asset_sha256": "81dd247fafe74c186d21d9139866aab5e061112093fe67870bd8f020cfc7e478",
+  "prompt": "prompts/battlefield/granite_1.txt",
+  "template_family": "cliff_band",
+  "style_reference": [
+    "references/cliff_band_1.png"
+  ]
+}

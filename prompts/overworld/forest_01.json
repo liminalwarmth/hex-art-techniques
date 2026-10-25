@@ -1,0 +1,33 @@
+{
+  "attempt": 2,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 716 edge px",
+    "size: 120 px (120)",
+    "lit from upper left: 1.35x"
+  ],
+  "date": "2026-10-25T06:04:46Z",
+  "dimensions": {
+    "height": 160,
+    "scale": 4,
+    "width": 160
+  },
+  "family": "doodad",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.8711,
+    "tx": -6.9279,
+    "ty": 8.2178
+  },
+  "raw_sha256": "dda721c2e8bbc95a3f0d1753aceeb812a045beacf60ba664c3030d1c2ce36cc1",
+  "subject": "a dense cluster of five dark green pine and oak trees, lit by a low sun from the upper left: the upper-left side of every crown bright, the lower-right side in shade",
+  "texture_bytes": 102400,
+  "variant": "forest",
+  "asset": "assets/worldmap/doodads/forest_01.png",
+  "asset_sha256": "43b984ad236d7bb92b9eb48e869402c3413324cca9d87058052642378cc45759",
+  "prompt": "prompts/overworld/forest_01.txt",
+  "template_family": "doodad",
+  "style_reference": [
+    "references/doodad_1.png"
+  ]
+}

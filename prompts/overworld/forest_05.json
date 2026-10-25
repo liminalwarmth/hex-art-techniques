@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 853 edge px",
+    "size: 120 px (120)",
+    "lit from upper left: 1.25x"
+  ],
+  "date": "2026-10-25T09:08:20Z",
+  "dimensions": {
+    "height": 160,
+    "scale": 4,
+    "width": 160
+  },
+  "family": "doodad",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.8163,
+    "tx": -2.3399,
+    "ty": 8.102
+  },
+  "raw_sha256": "9c572624b7fe8fb5982702b23bcf68c4364d6a0eb6131f3a258861752a59e12b",
+  "subject": "a dense cluster of dark fir trees with two bare dead trunks among them, lit by a low sun from the upper left: upper-left sides bright, lower-right sides in shade",
+  "texture_bytes": 102400,
+  "variant": "forest",
+  "asset": "assets/worldmap/doodads/forest_05.png",
+  "asset_sha256": "92cdc521fa733b75b1636bd7e8a7037cee49a599640d5e59a2118aaa3dddee6b",
+  "prompt": "prompts/overworld/forest_05.txt",
+  "template_family": "doodad",
+  "style_reference": [
+    "references/doodad_1.png"
+  ]
+}

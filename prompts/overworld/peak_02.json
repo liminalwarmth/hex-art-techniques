@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 627 edge px",
+    "size: 180 px (180)",
+    "lit from upper left: 1.36x"
+  ],
+  "date": "2026-10-25T09:11:06Z",
+  "dimensions": {
+    "height": 224,
+    "scale": 4,
+    "width": 256
+  },
+  "family": "doodad",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.8511,
+    "tx": -1.1779,
+    "ty": 0.9574
+  },
+  "raw_sha256": "bc52836a794cb5964adbabfa6936cf18bc954818816c0a09e9f388f1072d9bf7",
+  "subject": "two grey rocky mountain peaks side by side, the taller one snow-capped, lit by a low sun from the upper left: upper-left sides bright, lower-right sides in shade",
+  "texture_bytes": 229376,
+  "variant": "peak",
+  "asset": "assets/worldmap/doodads/peak_02.png",
+  "asset_sha256": "bb829195e19ddc9d7e8f3578e1c2b318a2e464e373ca306423d1e4103dce7391",
+  "prompt": "prompts/overworld/peak_02.txt",
+  "template_family": "doodad",
+  "style_reference": [
+    "references/doodad_1.png"
+  ]
+}

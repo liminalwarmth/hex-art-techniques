@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 1345 edge px",
+    "size: 120 px (120)",
+    "lit from upper left: 1.41x"
+  ],
+  "date": "2026-10-25T09:07:58Z",
+  "dimensions": {
+    "height": 160,
+    "scale": 4,
+    "width": 160
+  },
+  "family": "doodad",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.8333,
+    "tx": -0.8783,
+    "ty": 8.5208
+  },
+  "raw_sha256": "c12ac9958923123a67178235d04244758fee228367e7b253fc32a9c98304fade",
+  "subject": "a small copse of three birch and beech trees with light green leaves, lit by a low sun from the upper left: upper-left sides bright, lower-right sides in shade",
+  "texture_bytes": 102400,
+  "variant": "forest",
+  "asset": "assets/worldmap/doodads/forest_04.png",
+  "asset_sha256": "9688335445339e5ed8e2657bdcd4e8e46399a6e7be192d73f690263c10b5791e",
+  "prompt": "prompts/overworld/forest_04.txt",
+  "template_family": "doodad",
+  "style_reference": [
+    "references/doodad_1.png"
+  ]
+}

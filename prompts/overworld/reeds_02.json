@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 780 edge px",
+    "size: 56 px (56)",
+    "lit from upper left: 1.27x"
+  ],
+  "date": "2026-10-25T09:12:58Z",
+  "dimensions": {
+    "height": 96,
+    "scale": 4,
+    "width": 128
+  },
+  "family": "doodad",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.7724,
+    "tx": -2.008,
+    "ty": 5.9172
+  },
+  "raw_sha256": "7daced86a301ad4c38ca57920ce753f9c33d065767854a85ac94e2bc829bd533",
+  "subject": "a low spread of green rushes and reeds with a few cattails, lit by a low sun from the upper left: upper-left sides bright, lower-right sides in shade",
+  "texture_bytes": 49152,
+  "variant": "reeds",
+  "asset": "assets/worldmap/doodads/reeds_02.png",
+  "asset_sha256": "0a13b7311bd04cf0a76f7de3e7d156c01508d3b825d8cf43eed26648cd67ebce",
+  "prompt": "prompts/overworld/reeds_02.txt",
+  "template_family": "doodad",
+  "style_reference": [
+    "references/doodad_1.png"
+  ]
+}

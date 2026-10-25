@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "bones_01",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "scatter",
+    "asset": "assets/environment/clutter/bones_01.png",
+    "sha256": "4c8a9a9266a0a38519a80f50fbde3cd29f616221049f832aaf2b94b3559c1f1b",
+    "prompt": "prompts/battlefield/bones_01.txt",
+    "provenance": "prompts/battlefield/bones_01.json"
+  },
+  {
+    "id": "bones_02",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "scatter",
+    "asset": "assets/environment/clutter/bones_02.png",
+    "sha256": "78a1cd5e63a5192f0bc470b62cf2378f2e4e5abb6cf35f91c132e40c43729d41",
+    "prompt": "prompts/battlefield/bones_02.txt",
+    "provenance": "prompts/battlefield/bones_02.json"
+  },
+  {
+    "id": "flowers_01",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "clutter",
+    "asset": "assets/environment/clutter/flowers_01.png",
+    "sha256": "94269a8b824119ecdf4b875f1efe2cf3f98b68e4466606bb35707c1de6885bbf",
+    "prompt": "prompts/battlefield/flowers_01.txt",
+    "provenance": "prompts/battlefield/flowers_01.json"
+  },
+  {
+    "id": "flowers_02",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "clutter",
+    "asset": "assets/environment/clutter/flowers_02.png",
+    "sha256": "16db1dfa31721f3a418afea2d46d6afc3c097a15a2764ae77ca92b405ec18fdf",
+    "prompt": "prompts/battlefield/flowers_02.txt",
+    "provenance": "prompts/battlefield/flowers_02.json"
+  },
+  {
+    "id": "flowers_03",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "clutter",
+    "asset": "assets/environment/clutter/flowers_03.png",
+    "sha256": "2cd88085e05a7220da7d1590b76750ba2617f4dae1d99299cb9cbb4402447ca5",
+    "prompt": "prompts/battlefield/flowers_03.txt",
+    "provenance": "prompts/battlefield/flowers_03.json"
+  },
+  {
+    "id": "pebbles_01",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "scatter",
+    "asset": "assets/environment/clutter/pebbles_01.png",
+    "sha256": "80be9cabf8ed9cddac36a7ebaa5f25c7ddf843438b5785ea9b761ed8d27a72d5",
+    "prompt": "prompts/battlefield/pebbles_01.txt",
+    "provenance": "prompts/battlefield/pebbles_01.json"
+  },
+  {
+    "id": "pebbles_02",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "scatter",
+    "asset": "assets/environment/clutter/pebbles_02.png",
+    "sha256": "9ff745f6b1f10b3365b601f70b2f8049859010f899ec90105812223c3f58a1fb",
+    "prompt": "prompts/battlefield/pebbles_02.txt",
+    "provenance": "prompts/battlefield/pebbles_02.json"
+  },
+  {
+    "id": "pebbles_03",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "scatter",
+    "asset": "assets/environment/clutter/pebbles_03.png",
+    "sha256": "ae5c4c84de828a031e10eb1b3221496c1e3010fe9ffa4c6178bfe4fbf8364adc",
+    "prompt": "prompts/battlefield/pebbles_03.txt",
+    "provenance": "prompts/battlefield/pebbles_03.json"
+  },
+  {
+    "id": "tuft_01",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "clutter",
+    "asset": "assets/environment/clutter/tuft_01.png",
+    "sha256": "ae14e09cb6b29affa17670c0ec0ebc960a3b7f6f50fb3f6e0f43dda2a4db2e0c",
+    "prompt": "prompts/battlefield/tuft_01.txt",
+    "provenance": "prompts/battlefield/tuft_01.json"
+  },
+  {
+    "id": "tuft_02",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "clutter",
+    "asset": "assets/environment/clutter/tuft_02.png",
+    "sha256": "ae9390631bd453e28e5ccf7cb9ba6a031502545862ffade4bed5fae3ecb987eb",
+    "prompt": "prompts/battlefield/tuft_02.txt",
+    "provenance": "prompts/battlefield/tuft_02.json"
+  },
+  {
+    "id": "tuft_03",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "clutter",
+    "asset": "assets/environment/clutter/tuft_03.png",
+    "sha256": "e2a6e1cd17f93fdb01b19cb6018079e80dab078ee14df19547c9ffb59320d4c0",
+    "prompt": "prompts/battlefield/tuft_03.txt",
+    "provenance": "prompts/battlefield/tuft_03.json"
+  },
+  {
+    "id": "tuft_04",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "clutter",
+    "asset": "assets/environment/clutter/tuft_04.png",
+    "sha256": "ce1469aa7500c3cf9d8f7e0e64120e5181e4a68e08a0dce8100de8852abc857c",
+    "prompt": "prompts/battlefield/tuft_04.txt",
+    "provenance": "prompts/battlefield/tuft_04.json"
+  },
+  {
+    "id": "tuft_05",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "clutter",
+    "asset": "assets/environment/clutter/tuft_05.png",
+    "sha256": "8bb29342ab53b57b3e193bd18528cf259ccc249efd294dde1074ef13bc6135e7",
+    "prompt": "prompts/battlefield/tuft_05.txt",
+    "provenance": "prompts/battlefield/tuft_05.json"
+  },
+  {
+    "id": "tuft_06",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "clutter",
+    "asset": "assets/environment/clutter/tuft_06.png",
+    "sha256": "7376bb52e865a28083cf22d1d17783e52ce622de39f9ef7a7806ff73ee7de293",
+    "prompt": "prompts/battlefield/tuft_06.txt",
+    "provenance": "prompts/battlefield/tuft_06.json"
+  },
+  {
+    "id": "boulder_01",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "rock",
+    "asset": "assets/environment/props/boulder_01.png",
+    "sha256": "8b37a94da0a81cd168ec5c76b82fea10f4128eda7d221aa880a33564bd4df855",
+    "prompt": "prompts/battlefield/boulder_01.txt",
+    "provenance": "prompts/battlefield/boulder_01.json"
+  },
+  {
+    "id": "boulder_02",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "rock",
+    "asset": "assets/environment/props/boulder_02.png",
+    "sha256": "0d7546ea6edc49fd4992b9ccec74110f4c7b12d52f7c1ec958a3dd89a22d6b84",
+    "prompt": "prompts/battlefield/boulder_02.txt",
+    "provenance": "prompts/battlefield/boulder_02.json"
+  },
+  {
+    "id": "boulder_03",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "rock",
+    "asset": "assets/environment/props/boulder_03.png",
+    "sha256": "57de73aa5d8f348a7fef2048ad174250fffc51823c6074c015d8754631b8dede",
+    "prompt": "prompts/battlefield/boulder_03.txt",
+    "provenance": "prompts/battlefield/boulder_03.json"
+  },
+  {
+    "id": "boulder_04",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "rock",
+    "asset": "assets/environment/props/boulder_04.png",
+    "sha256": "688dab1d997d4652ef1bcce81941c4ac20e32ee247877a25d65b1d0691f706bd",
+    "prompt": "prompts/battlefield/boulder_04.txt",
+    "provenance": "prompts/battlefield/boulder_04.json"
+  },
+  {
+    "id": "bush_01",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "bush",
+    "asset": "assets/environment/props/bush_01.png",
+    "sha256": "d5ada9a9b8f8bb9e1cf72624bc16bb62f305fa9e12d72dece0dd15ecdc33fab7",
+    "prompt": "prompts/battlefield/bush_01.txt",
+    "provenance": "prompts/battlefield/bush_01.json"
+  },
+  {
+    "id": "bush_02",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "bush",
+    "asset": "assets/environment/props/bush_02.png",
+    "sha256": "4af424ab8fc9167f69f776543a8232544ff20cc00c43e04e1f01f74c47276711",
+    "prompt": "prompts/battlefield/bush_02.txt",
+    "provenance": "prompts/battlefield/bush_02.json"
+  },
+  {
+    "id": "campfire",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "low",
+    "asset": "assets/environment/props/campfire.png",
+    "sha256": "2ef72ac782cdb264689aa6b702f62b8d0f2d851a5a568b6dc23fed554775d01d",
+    "prompt": "prompts/battlefield/campfire.txt",
+    "provenance": "prompts/battlefield/campfire.json"
+  },
+  {
+    "id": "cart",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "cart",
+    "asset": "assets/environment/props/cart.png",
+    "sha256": "957cc01b2662d02f50f261aefc62cf60225a6d9d119aa225a548ef1d1f32f331",
+    "prompt": "prompts/battlefield/cart.txt",
+    "provenance": "prompts/battlefield/cart.json"
+  },
+  {
+    "id": "dead_tree",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "tree",
+    "asset": "assets/environment/props/dead_tree.png",
+    "sha256": "5dc684a3d6158f92cced5742adef41d6beed00b3e5abfb8ef9db8bbefe269da6",
+    "prompt": "prompts/battlefield/dead_tree.txt",
+    "provenance": "prompts/battlefield/dead_tree.json"
+  },
+  {
+    "id": "fence_01",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "fence",
+    "asset": "assets/environment/props/fence_01.png",
+    "sha256": "48013475f5e228b72bbc0f4b6ee0b1aa128a795628658d8cd815549b99d30fb1",
+    "prompt": "prompts/battlefield/fence_01.txt",
+    "provenance": "prompts/battlefield/fence_01.json"
+  },
+  {
+    "id": "fence_02",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "fence",
+    "asset": "assets/environment/props/fence_02.png",
+    "sha256": "a488c2f447ca63a6b687342108ae10742ca2dcf3ba1dd7b0592cd58176b7d859",
+    "prompt": "prompts/battlefield/fence_02.txt",
+    "provenance": "prompts/battlefield/fence_02.json"
+  },
+  {
+    "id": "grave_01",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "low",
+    "asset": "assets/environment/props/grave_01.png",
+    "sha256": "5be81ed456df1805b31f047f114d7821fbab7ad65531b5bc3000f2cfbb273384",
+    "prompt": "prompts/battlefield/grave_01.txt",
+    "provenance": "prompts/battlefield/grave_01.json"
+  },
+  {
+    "id": "grave_02",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "low",
+    "asset": "assets/environment/props/grave_02.png",
+    "sha256": "0ae4afef92650fffa1e820e41043a378f7ab695c7c8ca1ac2fecb5a087778550",
+    "prompt": "prompts/battlefield/grave_02.txt",
+    "provenance": "prompts/battlefield/grave_02.json"
+  },
+  {
+    "id": "oak_01",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "tree",
+    "asset": "assets/environment/props/oak_01.png",
+    "sha256": "9d14e3eaa435dabb580fa65f9a43e8e8b47ec1ab49706ee8a5c060fab2fc3ac5",
+    "prompt": "prompts/battlefield/oak_01.txt",
+    "provenance": "prompts/battlefield/oak_01.json"
+  },
+  {
+    "id": "oak_02",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "tree",
+    "asset": "assets/environment/props/oak_02.png",
+    "sha256": "d0d6b91694fa5601d7fcf8dddfaf60b20e2671d4ef7ae13d8481e5f173681871",
+    "prompt": "prompts/battlefield/oak_02.txt",
+    "provenance": "prompts/battlefield/oak_02.json"
+  },
+  {
+    "id": "pine_01",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "tree",
+    "asset": "assets/environment/props/pine_01.png",
+    "sha256": "de4f260216cf6f106321aee108948285269cae104a35cd8113eb81042b184b50",
+    "prompt": "prompts/battlefield/pine_01.txt",
+    "provenance": "prompts/battlefield/pine_01.json"
+  },
+  {
+    "id": "pine_02",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "tree",
+    "asset": "assets/environment/props/pine_02.png",
+    "sha256": "4bbd1d36cf258ee5bc05ab69af65ad7bda2d305d6314cf8253be781d3a2f4232",
+    "prompt": "prompts/battlefield/pine_02.txt",
+    "provenance": "prompts/battlefield/pine_02.json"
+  },
+  {
+    "id": "standing_stone",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "standing",
+    "asset": "assets/environment/props/standing_stone.png",
+    "sha256": "8bc09c6e0e74513e7567c8dddaf34cea7d745eb89328bb0877f38b527f5ff93f",
+    "prompt": "prompts/battlefield/standing_stone.txt",
+    "provenance": "prompts/battlefield/standing_stone.json"
+  },
+  {
+    "id": "tent_01",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "tent",
+    "asset": "assets/environment/props/tent_01.png",
+    "sha256": "e985ec96f14d637f1d021644fbc92b54a6087660fa8ec3813bf614216fe0168a",
+    "prompt": "prompts/battlefield/tent_01.txt",
+    "provenance": "prompts/battlefield/tent_01.json"
+  },
+  {
+    "id": "tent_02",
+    "category": "battlefield",
+    "family": "prop",
+    "variant": "tent",
+    "asset": "assets/environment/props/tent_02.png",
+    "sha256": "c2d0e3d9f88cf13dde3e4da9456a09fa19f5eb90bea0e6c82216d78fe7ef9d46",
+    "prompt": "prompts/battlefield/tent_02.txt",
+    "provenance": "prompts/battlefield/tent_02.json"
+  },
+  {
+    "id": "dirt_01",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/dirt_01.png",
+    "sha256": "84bf018777c97c5dec471fa19b9f31ddcfbe70251df1928ce2d70ce522130ca1",
+    "prompt": "prompts/battlefield/dirt_01.txt",
+    "provenance": "prompts/battlefield/dirt_01.json"
+  },
+  {
+    "id": "dirt_02",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/dirt_02.png",
+    "sha256": "7a7298e7afceef374c575b6eb382e0553e99d19a3ba301e22b1d7f8be57f86f0",
+    "prompt": "prompts/battlefield/dirt_02.txt",
+    "provenance": "prompts/battlefield/dirt_02.json"
+  },
+  {
+    "id": "forest_floor_01",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/forest_floor_01.png",
+    "sha256": "477b18cc368bcc0d7c27eac53d8d6a972a3e17ecd1b3505975981d61be488487",
+    "prompt": "prompts/battlefield/forest_floor_01.txt",
+    "provenance": "prompts/battlefield/forest_floor_01.json"
+  },
+  {
+    "id": "forest_floor_02",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/forest_floor_02.png",
+    "sha256": "31803a60c217f7b268cdb493c0a2a43c6ab5f8baf708ee3b2eae5c98f5ee2714",
+    "prompt": "prompts/battlefield/forest_floor_02.txt",
+    "provenance": "prompts/battlefield/forest_floor_02.json"
+  },
+  {
+    "id": "forest_floor_03",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/forest_floor_03.png",
+    "sha256": "a14c8b303c8359e8633ea97e9550f9e380530b197c95526a84b869b86f5f3385",
+    "prompt": "prompts/battlefield/forest_floor_03.txt",
+    "provenance": "prompts/battlefield/forest_floor_03.json"
+  },
+  {
+    "id": "grass_01",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/grass_01.png",
+    "sha256": "760567070ee9cc23b1494eb5957a9f6ab0e3fa6ba137822f31e14f91c7d36cc6",
+    "prompt": "prompts/battlefield/grass_01.txt",
+    "provenance": "prompts/battlefield/grass_01.json"
+  },
+  {
+    "id": "grass_02",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/grass_02.png",
+    "sha256": "b2bb8355808d212d1f4f7c348a3b42ac7f02fe4ea687b41e7ad53ef6f61bb465",
+    "prompt": "prompts/battlefield/grass_02.txt",
+    "provenance": "prompts/battlefield/grass_02.json"
+  },
+  {
+    "id": "grass_03",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/grass_03.png",
+    "sha256": "b91e27f3f300d49fd424e896030df3c9bc3cba2a551cdf5dc1e6490c812c3499",
+    "prompt": "prompts/battlefield/grass_03.txt",
+    "provenance": "prompts/battlefield/grass_03.json"
+  },
+  {
+    "id": "grass_04",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/grass_04.png",
+    "sha256": "87ea3fb6a8aaf2ca5e185b2b4a0884228193445e0834fe212563d54a259c1426",
+    "prompt": "prompts/battlefield/grass_04.txt",
+    "provenance": "prompts/battlefield/grass_04.json"
+  },
+  {
+    "id": "marsh_01",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/marsh_01.png",
+    "sha256": "b04a16ead16c46797974a95774c0c83e3287c99809f9ea520c059b63750873df",
+    "prompt": "prompts/battlefield/marsh_01.txt",
+    "provenance": "prompts/battlefield/marsh_01.json"
+  },
+  {
+    "id": "marsh_02",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/marsh_02.png",
+    "sha256": "fa6e08f629c768af5eaa42db90f52c2f0c6c8436ad512ae06d16b1d1d79910b5",
+    "prompt": "prompts/battlefield/marsh_02.txt",
+    "provenance": "prompts/battlefield/marsh_02.json"
+  },
+  {
+    "id": "mud_01",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/mud_01.png",
+    "sha256": "1c3e3dae4b0f6a63d8b405034db14fd38b7d6aa3b75460b61664c59d92c98c07",
+    "prompt": "prompts/battlefield/mud_01.txt",
+    "provenance": "prompts/battlefield/mud_01.json"
+  },
+  {
+    "id": "road_01",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/road_01.png",
+    "sha256": "eaddc82dd3c585c9dc1911cb75c08ae46de87738d33cafbcfda37a57a3c13624",
+    "prompt": "prompts/battlefield/road_01.txt",
+    "provenance": "prompts/battlefield/road_01.json"
+  },
+  {
+    "id": "road_02",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/road_02.png",
+    "sha256": "f5dfd86dac3b6ee94403e266ba54e81f2121631f648fc58892113950975a5db5",
+    "prompt": "prompts/battlefield/road_02.txt",
+    "provenance": "prompts/battlefield/road_02.json"
+  },
+  {
+    "id": "water_01",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/water_01.png",
+    "sha256": "c1e059e90e703d92036e4a4830a5e14cd8311395e66fa60a89790b121fe5440d",
+    "prompt": "prompts/battlefield/water_01.txt",
+    "provenance": "prompts/battlefield/water_01.json"
+  },
+  {
+    "id": "water_02",
+    "category": "battlefield",
+    "family": "hex_cap",
+    "variant": null,
+    "asset": "assets/terrain/caps/water_02.png",
+    "sha256": "75d502d5c8de4f44f23c6177288a4e57ac13ef4de05c998958cf812aa508ba77",
+    "prompt": "prompts/battlefield/water_02.txt",
+    "provenance": "prompts/battlefield/water_02.json"
+  },
+  {
+    "id": "granite_1",
+    "category": "battlefield",
+    "family": "cliff_band",
+    "variant": "step1",
+    "asset": "assets/terrain/cliffs/granite_1.png",
+    "sha256": "81dd247fafe74c186d21d9139866aab5e061112093fe67870bd8f020cfc7e478",
+    "prompt": "prompts/battlefield/granite_1.txt",
+    "provenance": "prompts/battlefield/granite_1.json"
+  },
+  {
+    "id": "granite_2",
+    "category": "battlefield",
+    "family": "cliff_band",
+    "variant": "step2",
+    "asset": "assets/terrain/cliffs/granite_2.png",
+    "sha256": "87c69679e6189a346babb002a945f8553cd29e92cab63fd591180be768b76f21",
+    "prompt": "prompts/battlefield/granite_2.txt",
+    "provenance": "prompts/battlefield/granite_2.json"
+  },
+  {
+    "id": "granite_3",
+    "category": "battlefield",
+    "family": "cliff_band",
+    "variant": "step3",
+    "asset": "assets/terrain/cliffs/granite_3.png",
+    "sha256": "bb90dd592b7b00c9f5c1ac27edbc58bfa7b86b3305eecc1b6e58e4ac7cfccf1e",
+    "prompt": "prompts/battlefield/granite_3.txt",
+    "provenance": "prompts/battlefield/granite_3.json"
+  },
+  {
+    "id": "limestone_1",
+    "category": "battlefield",
+    "family": "cliff_band",
+    "variant": "step1",
+    "asset": "assets/terrain/cliffs/limestone_1.png",
+    "sha256": "9606cc4082bd306e444c7ff59f72895af882fb40b806534a2e17c5db0777c7c1",
+    "prompt": "prompts/battlefield/limestone_1.txt",
+    "provenance": "prompts/battlefield/limestone_1.json"
+  },
+  {
+    "id": "limestone_2",
+    "category": "battlefield",
+    "family": "cliff_band",
+    "variant": "step2",
+    "asset": "assets/terrain/cliffs/limestone_2.png",
+    "sha256": "ffa1d9274999db5956ae9d088c167c7964bf72d945210cd5263d402c016acc1c",
+    "prompt": "prompts/battlefield/limestone_2.txt",
+    "provenance": "prompts/battlefield/limestone_2.json"
+  },
+  {
+    "id": "limestone_3",
+    "category": "battlefield",
+    "family": "cliff_band",
+    "variant": "step3",
+    "asset": "assets/terrain/cliffs/limestone_3.png",
+    "sha256": "e4a730a85c41998a74ba7b2ce94c5388a833fd555ead429a85e9d4fa5e75f2ff",
+    "prompt": "prompts/battlefield/limestone_3.txt",
+    "provenance": "prompts/battlefield/limestone_3.json"
+  },
+  {
+    "id": "forest_01",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "forest",
+    "asset": "assets/worldmap/doodads/forest_01.png",
+    "sha256": "43b984ad236d7bb92b9eb48e869402c3413324cca9d87058052642378cc45759",
+    "prompt": "prompts/overworld/forest_01.txt",
+    "provenance": "prompts/overworld/forest_01.json"
+  },
+  {
+    "id": "forest_02",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "forest",
+    "asset": "assets/worldmap/doodads/forest_02.png",
+    "sha256": "2dd37b27aa7a016e98e419be164028864821d2ebd112bff5aec63966f8098d4a",
+    "prompt": "prompts/overworld/forest_02.txt",
+    "provenance": "prompts/overworld/forest_02.json"
+  },
+  {
+    "id": "forest_03",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "forest",
+    "asset": "assets/worldmap/doodads/forest_03.png",
+    "sha256": "fb0322b73f7455c5622ac2bbc6702f78022106a8af382a880e668097a15a2a05",
+    "prompt": "prompts/overworld/forest_03.txt",
+    "provenance": "prompts/overworld/forest_03.json"
+  },
+  {
+    "id": "forest_04",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "forest",
+    "asset": "assets/worldmap/doodads/forest_04.png",
+    "sha256": "9688335445339e5ed8e2657bdcd4e8e46399a6e7be192d73f690263c10b5791e",
+    "prompt": "prompts/overworld/forest_04.txt",
+    "provenance": "prompts/overworld/forest_04.json"
+  },
+  {
+    "id": "forest_05",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "forest",
+    "asset": "assets/worldmap/doodads/forest_05.png",
+    "sha256": "92cdc521fa733b75b1636bd7e8a7037cee49a599640d5e59a2118aaa3dddee6b",
+    "prompt": "prompts/overworld/forest_05.txt",
+    "provenance": "prompts/overworld/forest_05.json"
+  },
+  {
+    "id": "forest_06",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "forest",
+    "asset": "assets/worldmap/doodads/forest_06.png",
+    "sha256": "8635fd55d69a6d5e90b4d7246227d9ccae0822a918170cd5ad42d6f1cd661b5b",
+    "prompt": "prompts/overworld/forest_06.txt",
+    "provenance": "prompts/overworld/forest_06.json"
+  },
+  {
+    "id": "hill_01",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "hill",
+    "asset": "assets/worldmap/doodads/hill_01.png",
+    "sha256": "9f789423253f661886dc0b35e12f957d92f2ee848775519bcb425f18a83f9b5a",
+    "prompt": "prompts/overworld/hill_01.txt",
+    "provenance": "prompts/overworld/hill_01.json"
+  },
+  {
+    "id": "hill_02",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "hill",
+    "asset": "assets/worldmap/doodads/hill_02.png",
+    "sha256": "e250a354d7fd4b3db6e67f3f8db1d830438832ddfec729784fc6d1518c57eccb",
+    "prompt": "prompts/overworld/hill_02.txt",
+    "provenance": "prompts/overworld/hill_02.json"
+  },
+  {
+    "id": "hill_03",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "hill",
+    "asset": "assets/worldmap/doodads/hill_03.png",
+    "sha256": "5c94ee6c93a9cd71438cf0204512ed49d5ddbc474a161f46071a3b80f09d35b3",
+    "prompt": "prompts/overworld/hill_03.txt",
+    "provenance": "prompts/overworld/hill_03.json"
+  },
+  {
+    "id": "peak_01",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "peak",
+    "asset": "assets/worldmap/doodads/peak_01.png",
+    "sha256": "e9f2734395aeaa7a9d194e5550f5eb008251a488413c5c98ea89899a23b40299",
+    "prompt": "prompts/overworld/peak_01.txt",
+    "provenance": "prompts/overworld/peak_01.json"
+  },
+  {
+    "id": "peak_02",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "peak",
+    "asset": "assets/worldmap/doodads/peak_02.png",
+    "sha256": "bb829195e19ddc9d7e8f3578e1c2b318a2e464e373ca306423d1e4103dce7391",
+    "prompt": "prompts/overworld/peak_02.txt",
+    "provenance": "prompts/overworld/peak_02.json"
+  },
+  {
+    "id": "peak_03",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "peak",
+    "asset": "assets/worldmap/doodads/peak_03.png",
+    "sha256": "df245e42799fa4d64ab69e30d9946ef1c6f6b0a8320ec628509330be657aaeee",
+    "prompt": "prompts/overworld/peak_03.txt",
+    "provenance": "prompts/overworld/peak_03.json"
+  },
+  {
+    "id": "peak_04",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "peak",
+    "asset": "assets/worldmap/doodads/peak_04.png",
+    "sha256": "ee0e155ca7d83f4d1e31248ad943b19a8fde352044392f2e7863bdeadbe3637c",
+    "prompt": "prompts/overworld/peak_04.txt",
+    "provenance": "prompts/overworld/peak_04.json"
+  },
+  {
+    "id": "reeds_01",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "reeds",
+    "asset": "assets/worldmap/doodads/reeds_01.png",
+    "sha256": "0d63a7a4d3cfd9618bf2619b0cbaa5cb8ea4dade0382b455ad8fb250dccdbfac",
+    "prompt": "prompts/overworld/reeds_01.txt",
+    "provenance": "prompts/overworld/reeds_01.json"
+  },
+  {
+    "id": "reeds_02",
+    "category": "overworld",
+    "family": "doodad",
+    "variant": "reeds",
+    "asset": "assets/worldmap/doodads/reeds_02.png",
+    "sha256": "0a13b7311bd04cf0a76f7de3e7d156c01508d3b825d8cf43eed26648cd67ebce",
+    "prompt": "prompts/overworld/reeds_02.txt",
+    "provenance": "prompts/overworld/reeds_02.json"
+  },
+  {
+    "id": "river_n",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "river",
+    "asset": "assets/worldmap/rivers/river_n.png",
+    "sha256": "7d53b596dbb205d27c21d911af329f22d6ef0dae5bf7c96c7bdd392ba83f2f80",
+    "prompt": "prompts/overworld/river_n.txt",
+    "provenance": "prompts/overworld/river_n.json"
+  },
+  {
+    "id": "river_ne",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "river",
+    "asset": "assets/worldmap/rivers/river_ne.png",
+    "sha256": "f7aa5d2fbe60c6b68edcb5417c17564883beb5a176f9c79ca70f865b03c57a2c",
+    "prompt": "prompts/overworld/river_ne.txt",
+    "provenance": "prompts/overworld/river_ne.json"
+  },
+  {
+    "id": "river_nw",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "river",
+    "asset": "assets/worldmap/rivers/river_nw.png",
+    "sha256": "34e7a1928d95721fdef6eeb212e11e4dae27e18908062805704ea8b02542b20f",
+    "prompt": "prompts/overworld/river_nw.txt",
+    "provenance": "prompts/overworld/river_nw.json"
+  },
+  {
+    "id": "river_s",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "river",
+    "asset": "assets/worldmap/rivers/river_s.png",
+    "sha256": "e2b10f7a886c7c53ca21d78e911f131bea4a3135c9df28c965bd1b9de4fa9f38",
+    "prompt": "prompts/overworld/river_s.txt",
+    "provenance": "prompts/overworld/river_s.json"
+  },
+  {
+    "id": "river_se",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "river",
+    "asset": "assets/worldmap/rivers/river_se.png",
+    "sha256": "e047c511e8654b1efa5ca7966b984d9b9154d1f4bd87f031fc08e33137108a4a",
+    "prompt": "prompts/overworld/river_se.txt",
+    "provenance": "prompts/overworld/river_se.json"
+  },
+  {
+    "id": "river_sw",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "river",
+    "asset": "assets/worldmap/rivers/river_sw.png",
+    "sha256": "6b44abb7022cee3b7ef96657ba24134069d919ab35ce7ec8df3bb6a570ca28c8",
+    "prompt": "prompts/overworld/river_sw.txt",
+    "provenance": "prompts/overworld/river_sw.json"
+  },
+  {
+    "id": "bridge_stone_se",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "road",
+    "asset": "assets/worldmap/roads/bridge_stone_se.png",
+    "sha256": "288c676c71f4694679788af518a52f06b8578e58fa65087170854b173c8e43b1",
+    "prompt": "prompts/overworld/bridge_stone_se.txt",
+    "provenance": "prompts/overworld/bridge_stone_se.json"
+  },
+  {
+    "id": "bridge_wood_se",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "road",
+    "asset": "assets/worldmap/roads/bridge_wood_se.png",
+    "sha256": "89d0b40d9313ffcc0494b67380b1408784a9fd4f31aa5b187f4ef40421cf6f12",
+    "prompt": "prompts/overworld/bridge_wood_se.txt",
+    "provenance": "prompts/overworld/bridge_wood_se.json"
+  },
+  {
+    "id": "dirt_hub",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "hub",
+    "asset": "assets/worldmap/roads/dirt_hub.png",
+    "sha256": "a3852048561b169cf3a5cac3f0da4b78b07c8602585af1eeaf8f4ecf20a294de",
+    "prompt": "prompts/overworld/dirt_hub.txt",
+    "provenance": "prompts/overworld/dirt_hub.json"
+  },
+  {
+    "id": "dirt_n",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "road",
+    "asset": "assets/worldmap/roads/dirt_n.png",
+    "sha256": "934ddb2ceaa9117ab9a7d85e3968e028a06a4ed23528b27ee695be4c108bc07c",
+    "prompt": "prompts/overworld/dirt_n.txt",
+    "provenance": "prompts/overworld/dirt_n.json"
+  },
+  {
+    "id": "dirt_ne",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "road",
+    "asset": "assets/worldmap/roads/dirt_ne.png",
+    "sha256": "dd4cc1ef1ab31bb8e5975e87ea5d1c7cb3d65543537ba8a2cb965dd070e91cf2",
+    "prompt": "prompts/overworld/dirt_ne.txt",
+    "provenance": "prompts/overworld/dirt_ne.json"
+  },
+  {
+    "id": "dirt_nw",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "road",
+    "asset": "assets/worldmap/roads/dirt_nw.png",
+    "sha256": "08ca5129b77abe657a32dd1e2b6d25d5cf60a17af84effbcaa1046b0d9e385c0",
+    "prompt": "prompts/overworld/dirt_nw.txt",
+    "provenance": "prompts/overworld/dirt_nw.json"
+  },
+  {
+    "id": "dirt_s",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "road",
+    "asset": "assets/worldmap/roads/dirt_s.png",
+    "sha256": "992900a5a7bc7057e8be36346b7f53dae0622aca5bf7b7c66de6d7156ce3ee8e",
+    "prompt": "prompts/overworld/dirt_s.txt",
+    "provenance": "prompts/overworld/dirt_s.json"
+  },
+  {
+    "id": "dirt_se",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "road",
+    "asset": "assets/worldmap/roads/dirt_se.png",
+    "sha256": "0fdee22d235de9e8e83176182aef66d6c8c98738c86ac0c1d941acdba9ac7c11",
+    "prompt": "prompts/overworld/dirt_se.txt",
+    "provenance": "prompts/overworld/dirt_se.json"
+  },
+  {
+    "id": "dirt_sw",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "road",
+    "asset": "assets/worldmap/roads/dirt_sw.png",
+    "sha256": "995aa51acdcbdfefabbfd9487ab7d8ca5f52bb2628407cab298cd847f954708a",
+    "prompt": "prompts/overworld/dirt_sw.txt",
+    "provenance": "prompts/overworld/dirt_sw.json"
+  },
+  {
+    "id": "beach_01",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/beach_01.png",
+    "sha256": "8f8d8e33da57125d46b549d259a6ac1fb96ca880fdad2cb14d47b67a6d10cea6",
+    "prompt": "prompts/overworld/beach_01.txt",
+    "provenance": "prompts/overworld/beach_01.json"
+  },
+  {
+    "id": "beach_02",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/beach_02.png",
+    "sha256": "5b3d6478c4eaa55befd0423ed3ea1bc239967d7db6e5ce4eed7e036d2f2397e5",
+    "prompt": "prompts/overworld/beach_02.txt",
+    "provenance": "prompts/overworld/beach_02.json"
+  },
+  {
+    "id": "dark_grass_01",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/dark_grass_01.png",
+    "sha256": "19c039137dde4c54aff6d69069c3f6609235e3451ea1c9442808b84b40dda703",
+    "prompt": "prompts/overworld/dark_grass_01.txt",
+    "provenance": "prompts/overworld/dark_grass_01.json"
+  },
+  {
+    "id": "dark_grass_02",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/dark_grass_02.png",
+    "sha256": "f543c43546f451529e09e071a11625c1c82cabac9c507a246353ad3475ce990c",
+    "prompt": "prompts/overworld/dark_grass_02.txt",
+    "provenance": "prompts/overworld/dark_grass_02.json"
+  },
+  {
+    "id": "deep_01",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/deep_01.png",
+    "sha256": "dcdc5b4ed1a33407b1b61d90ba346f8a2c9e18e1d00ce38379fc5e8044ebed92",
+    "prompt": "prompts/overworld/deep_01.txt",
+    "provenance": "prompts/overworld/deep_01.json"
+  },
+  {
+    "id": "deep_02",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/deep_02.png",
+    "sha256": "231b58e02145b60b182a724b4c00a6686343ab0801ae2d9679f5a8f9f1c75371",
+    "prompt": "prompts/overworld/deep_02.txt",
+    "provenance": "prompts/overworld/deep_02.json"
+  },
+  {
+    "id": "farmland_01",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/farmland_01.png",
+    "sha256": "2a3d144be59bfb7e28600f2edd31ae85733cdc0a64018013c43f92efa6f1af04",
+    "prompt": "prompts/overworld/farmland_01.txt",
+    "provenance": "prompts/overworld/farmland_01.json"
+  },
+  {
+    "id": "farmland_02",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/farmland_02.png",
+    "sha256": "2d9d7bb416d852351555f480ad62d476dff45fcde41a7c3c3eabe73317ae4e51",
+    "prompt": "prompts/overworld/farmland_02.txt",
+    "provenance": "prompts/overworld/farmland_02.json"
+  },
+  {
+    "id": "forest_floor_01",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/forest_floor_01.png",
+    "sha256": "1393ed6b7784107dcb10ba9a07cb1cc8e18360aa671b4a3d24c271fe97362e9c",
+    "prompt": "prompts/overworld/forest_floor_01.txt",
+    "provenance": "prompts/overworld/forest_floor_01.json"
+  },
+  {
+    "id": "forest_floor_02",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/forest_floor_02.png",
+    "sha256": "37c02f554f6252ee7012ccc058526ecb18f1963c86be976e03b6e662bb1e1c6c",
+    "prompt": "prompts/overworld/forest_floor_02.txt",
+    "provenance": "prompts/overworld/forest_floor_02.json"
+  },
+  {
+    "id": "hills_01",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/hills_01.png",
+    "sha256": "a44a5d042a5c50fe250e92f1993a9e6e8661888109a9a4cd8e4bb89efa7e3964",
+    "prompt": "prompts/overworld/hills_01.txt",
+    "provenance": "prompts/overworld/hills_01.json"
+  },
+  {
+    "id": "hills_02",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/hills_02.png",
+    "sha256": "edaa2805fa44a268ba020cc402b41637ecc599d42f87565f96542511d47a5ec1",
+    "prompt": "prompts/overworld/hills_02.txt",
+    "provenance": "prompts/overworld/hills_02.json"
+  },
+  {
+    "id": "hills_03",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/hills_03.png",
+    "sha256": "4759bd9a9c8a230448e4cbfb5a9ea6f991d73cc464d6de7729e9d949b5cf0ff8",
+    "prompt": "prompts/overworld/hills_03.txt",
+    "provenance": "prompts/overworld/hills_03.json"
+  },
+  {
+    "id": "meadow_01",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/meadow_01.png",
+    "sha256": "d39ae8df7751ee9deef572b67e70c1059c10f44762123f3f33bbfdb765e4d7f4",
+    "prompt": "prompts/overworld/meadow_01.txt",
+    "provenance": "prompts/overworld/meadow_01.json"
+  },
+  {
+    "id": "meadow_02",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/meadow_02.png",
+    "sha256": "0ff59affbdc211988803df8e22c6ba78ee0836926f8a28917b9077e17eb4e378",
+    "prompt": "prompts/overworld/meadow_02.txt",
+    "provenance": "prompts/overworld/meadow_02.json"
+  },
+  {
+    "id": "meadow_03",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/meadow_03.png",
+    "sha256": "a978afb9c636dd8d36be08408084fce871acf14076f9133e8116c9b2a77cfdc9",
+    "prompt": "prompts/overworld/meadow_03.txt",
+    "provenance": "prompts/overworld/meadow_03.json"
+  },
+  {
+    "id": "meadow_04",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/meadow_04.png",
+    "sha256": "e886c500615fa26106d557aae6be8806e023401eea4bdbc1b8d2c8c21bf3c804",
+    "prompt": "prompts/overworld/meadow_04.txt",
+    "provenance": "prompts/overworld/meadow_04.json"
+  },
+  {
+    "id": "mountain_01",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/mountain_01.png",
+    "sha256": "cb3eb00da2725b60ba85399b77c3e9117aef863042b2a35010728b0c96e5f7be",
+    "prompt": "prompts/overworld/mountain_01.txt",
+    "provenance": "prompts/overworld/mountain_01.json"
+  },
+  {
+    "id": "mountain_02",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/mountain_02.png",
+    "sha256": "646a97768e8eb887cce7187de02af0782ef9ba868300005174a62dc8049dc878",
+    "prompt": "prompts/overworld/mountain_02.txt",
+    "provenance": "prompts/overworld/mountain_02.json"
+  },
+  {
+    "id": "mountain_03",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/mountain_03.png",
+    "sha256": "f6050da614509d6e632a97bc748ae716730ac52755f00fddd5056307b7b86f6a",
+    "prompt": "prompts/overworld/mountain_03.txt",
+    "provenance": "prompts/overworld/mountain_03.json"
+  },
+  {
+    "id": "shallow_01",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/shallow_01.png",
+    "sha256": "dac529d84a7a55ff7f031d57093eca1a8cff9ec0b6b6ee78f0a4d1f59874c2f2",
+    "prompt": "prompts/overworld/shallow_01.txt",
+    "provenance": "prompts/overworld/shallow_01.json"
+  },
+  {
+    "id": "shallow_02",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/shallow_02.png",
+    "sha256": "e536bed90dbb75cd3e86b3060f18f7f4d86bcb2e26721c6b432063b44e113884",
+    "prompt": "prompts/overworld/shallow_02.txt",
+    "provenance": "prompts/overworld/shallow_02.json"
+  },
+  {
+    "id": "swamp_01",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/swamp_01.png",
+    "sha256": "86d16488294de2782288c33e28399ae844030459c71d6ab71878b3e9bda77d2d",
+    "prompt": "prompts/overworld/swamp_01.txt",
+    "provenance": "prompts/overworld/swamp_01.json"
+  },
+  {
+    "id": "swamp_02",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/swamp_02.png",
+    "sha256": "caee1dd67d11dfde9b5f9d2f041bc01008aa324ec99226a84664dfd83d7b4f32",
+    "prompt": "prompts/overworld/swamp_02.txt",
+    "provenance": "prompts/overworld/swamp_02.json"
+  },
+  {
+    "id": "uncharted",
+    "category": "overworld",
+    "family": "world_tile",
+    "variant": "ground",
+    "asset": "assets/worldmap/tiles/uncharted.png",
+    "sha256": "66254466854e1074b83c1f925b8cd0f37e28436702ec74ef9818a3b0b28cdbec",
+    "prompt": "prompts/overworld/uncharted.txt",
+    "provenance": "prompts/overworld/uncharted.json"
+  }
+]

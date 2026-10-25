@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 670 edge px",
+    "size: 40 px (40)",
+    "lit from upper left: 1.05x"
+  ],
+  "date": "2026-10-25T09:16:24Z",
+  "dimensions": {
+    "height": 128,
+    "scale": 2,
+    "width": 288
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.7143,
+    "tx": -22.1922,
+    "ty": 2.9821
+  },
+  "raw_sha256": "5b71e15dac663aac1e0a5956d3a49e11a4938a66c9477e72ab269bc5e8deab9e",
+  "subject": "a few greige limestone chips and coarse gravel lying on the ground, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 147456,
+  "variant": "scatter",
+  "asset": "assets/environment/clutter/pebbles_02.png",
+  "asset_sha256": "9ff745f6b1f10b3365b601f70b2f8049859010f899ec90105812223c3f58a1fb",
+  "prompt": "prompts/battlefield/pebbles_02.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

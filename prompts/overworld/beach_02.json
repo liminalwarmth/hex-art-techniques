@@ -1,0 +1,35 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 425 edge px",
+    "zone overlap: IoU 0.996",
+    "scale: 1.025",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.000 cut beyond the 6 px fringe"
+  ],
+  "date": "2026-10-25T08:59:06Z",
+  "dimensions": {
+    "height": 152,
+    "scale": 4,
+    "width": 136
+  },
+  "family": "world_tile",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.025,
+    "scale_error": 0.025,
+    "tx": 0,
+    "ty": 0
+  },
+  "raw_sha256": "729ba23e4d7bc611f548b268df647755d08f35af9d3afdf4d9c121dc8706e1b4",
+  "subject": "a pale sandy shore: warm beige sand with a scatter of pebbles, shells and dry seaweed",
+  "texture_bytes": 82688,
+  "variant": "ground",
+  "asset": "assets/worldmap/tiles/beach_02.png",
+  "asset_sha256": "5b3d6478c4eaa55befd0423ed3ea1bc239967d7db6e5ce4eed7e036d2f2397e5",
+  "prompt": "prompts/overworld/beach_02.txt",
+  "template_family": "world_tile",
+  "style_reference": [
+    "references/world_tile_1.png"
+  ]
+}

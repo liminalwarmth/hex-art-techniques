@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 287 edge px",
+    "size: 72 px (72)",
+    "lit from upper left: 1.15x"
+  ],
+  "date": "2026-10-25T09:09:49Z",
+  "dimensions": {
+    "height": 128,
+    "scale": 4,
+    "width": 160
+  },
+  "family": "doodad",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.96,
+    "tx": -3.9446,
+    "ty": 1
+  },
+  "raw_sha256": "42352297eae30f2d1133806c39392a901b7835b17e1f10e6b5b3e1bc884f1fe2",
+  "subject": "a pair of low rounded grassy hillocks, one behind the other, lit by a low sun from the upper left: upper-left sides bright, lower-right sides in shade",
+  "texture_bytes": 81920,
+  "variant": "hill",
+  "asset": "assets/worldmap/doodads/hill_02.png",
+  "asset_sha256": "e250a354d7fd4b3db6e67f3f8db1d830438832ddfec729784fc6d1518c57eccb",
+  "prompt": "prompts/overworld/hill_02.txt",
+  "template_family": "doodad",
+  "style_reference": [
+    "references/doodad_1.png"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 390 edge px",
+    "zone overlap: IoU 0.998",
+    "scale: 1.031",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.000 cut beyond the 6 px fringe"
+  ],
+  "date": "2026-10-25T08:54:29Z",
+  "dimensions": {
+    "height": 152,
+    "scale": 4,
+    "width": 136
+  },
+  "family": "world_tile",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0312,
+    "scale_error": 0.0312,
+    "tx": 0,
+    "ty": 0
+  },
+  "raw_sha256": "45c5a9e7e021cede82e40a88dab45b3a092281a333864425524c9e6e9e16833b",
+  "subject": "a dark forest floor of moss, ferns, fallen needles and brown leaf litter",
+  "texture_bytes": 82688,
+  "variant": "ground",
+  "asset": "assets/worldmap/tiles/forest_floor_02.png",
+  "asset_sha256": "37c02f554f6252ee7012ccc058526ecb18f1963c86be976e03b6e662bb1e1c6c",
+  "prompt": "prompts/overworld/forest_floor_02.txt",
+  "template_family": "world_tile",
+  "style_reference": [
+    "references/world_tile_1.png"
+  ]
+}

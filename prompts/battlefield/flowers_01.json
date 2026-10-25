@@ -1,0 +1,33 @@
+{
+  "attempt": 2,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 1070 edge px",
+    "size: 104 px (104)",
+    "lit from upper left: 1.31x"
+  ],
+  "date": "2026-10-25T09:25:24Z",
+  "dimensions": {
+    "height": 160,
+    "scale": 2,
+    "width": 224
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.8908,
+    "tx": -4.3687,
+    "ty": -2.4839
+  },
+  "raw_sha256": "f3fbea94707b86f2c23bd58290e86f6a285f44319efaa22ed94cc71e42d377d6",
+  "subject": "a small clump of white daisies among a little muted green grass, painted with broad, thick blades and leaves and no hair-thin wisps or pale tips, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 143360,
+  "variant": "clutter",
+  "asset": "assets/environment/clutter/flowers_01.png",
+  "asset_sha256": "94269a8b824119ecdf4b875f1efe2cf3f98b68e4466606bb35707c1de6885bbf",
+  "prompt": "prompts/battlefield/flowers_01.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

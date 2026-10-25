@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 777 edge px",
+    "size: 180 px (180)",
+    "lit from upper left: 1.27x"
+  ],
+  "date": "2026-10-25T09:11:41Z",
+  "dimensions": {
+    "height": 224,
+    "scale": 4,
+    "width": 256
+  },
+  "family": "doodad",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.8136,
+    "tx": -3.7516,
+    "ty": 4.7119
+  },
+  "raw_sha256": "3a7ec54103d4d2a282da87e3156d841bd98b21097e72b6289ec02e7f91fbcc33",
+  "subject": "a broad weathered grey mountain with scree slopes and no snow, lit by a low sun from the upper left: upper-left sides bright, lower-right sides in shade",
+  "texture_bytes": 229376,
+  "variant": "peak",
+  "asset": "assets/worldmap/doodads/peak_03.png",
+  "asset_sha256": "df245e42799fa4d64ab69e30d9946ef1c6f6b0a8320ec628509330be657aaeee",
+  "prompt": "prompts/overworld/peak_03.txt",
+  "template_family": "doodad",
+  "style_reference": [
+    "references/doodad_1.png"
+  ]
+}

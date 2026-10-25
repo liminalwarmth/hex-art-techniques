@@ -1,0 +1,34 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 1253 edge px",
+    "zone overlap: IoU 0.988",
+    "scale: 1.038",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.000 cut beyond the 16 px fringe"
+  ],
+  "date": "2026-10-25T08:54:21Z",
+  "dimensions": {
+    "height": 512,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "hex_cap",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0375,
+    "scale_error": 0.0375,
+    "tx": -1.3333,
+    "ty": 0
+  },
+  "raw_sha256": "5725cd7b22569115b7b52ca782ff30849b21968156e41710f9a14a1191ab8f3a",
+  "subject": "bare packed earth in muted umber brown (around #6B5236) with fine gravel, small dry cracks and a few thin grass blades at its margins; low micro-contrast and an even overall value, so identical and neighbouring tiles blend seamlessly",
+  "texture_bytes": 1048576,
+  "asset": "assets/terrain/caps/dirt_01.png",
+  "asset_sha256": "84bf018777c97c5dec471fa19b9f31ddcfbe70251df1928ce2d70ce522130ca1",
+  "prompt": "prompts/battlefield/dirt_01.txt",
+  "template_family": "hex_cap",
+  "style_reference": [
+    "references/hex_cap_1.png"
+  ]
+}

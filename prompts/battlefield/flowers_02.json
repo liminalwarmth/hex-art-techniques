@@ -1,0 +1,33 @@
+{
+  "attempt": 2,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 1359 edge px",
+    "size: 104 px (104)",
+    "lit from upper left: 1.21x"
+  ],
+  "date": "2026-10-25T09:26:35Z",
+  "dimensions": {
+    "height": 160,
+    "scale": 2,
+    "width": 224
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.8889,
+    "tx": -0.958,
+    "ty": -2.7778
+  },
+  "raw_sha256": "d386269fd1dbd2f700732745d6dfa89c49ab5a38f53e4ccab34a0508aaa1741f",
+  "subject": "a small clump of yellow buttercups among a little muted green grass, painted with broad, thick blades and leaves and no hair-thin wisps or pale tips, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 143360,
+  "variant": "clutter",
+  "asset": "assets/environment/clutter/flowers_02.png",
+  "asset_sha256": "16db1dfa31721f3a418afea2d46d6afc3c097a15a2764ae77ca92b405ec18fdf",
+  "prompt": "prompts/battlefield/flowers_02.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

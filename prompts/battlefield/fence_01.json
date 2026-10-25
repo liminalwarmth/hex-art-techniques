@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 1084 edge px",
+    "size: 96 px (96)",
+    "lit from upper left: 1.20x"
+  ],
+  "date": "2026-10-25T09:08:36Z",
+  "dimensions": {
+    "height": 192,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.6796,
+    "tx": -62.6365,
+    "ty": 14.104
+  },
+  "raw_sha256": "19b4c2fe6e710fc96f24be98847d4d446115ce4b2d5f5bc69ac2776590d9aae6",
+  "subject": "a short stretch of old split-rail fence: three weathered wooden posts with two rails, one rail sagging, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 393216,
+  "variant": "fence",
+  "asset": "assets/environment/props/fence_01.png",
+  "asset_sha256": "48013475f5e228b72bbc0f4b6ee0b1aa128a795628658d8cd815549b99d30fb1",
+  "prompt": "prompts/battlefield/fence_01.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

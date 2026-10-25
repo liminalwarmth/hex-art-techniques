@@ -1,0 +1,34 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 1517 edge px",
+    "zone overlap: IoU 0.982",
+    "scale: 1.044",
+    "fills its zone: 0.991 opaque",
+    "stays in its hex: 0.000 cut beyond the 16 px fringe"
+  ],
+  "date": "2026-10-25T08:55:56Z",
+  "dimensions": {
+    "height": 512,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "hex_cap",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0437,
+    "scale_error": 0.0437,
+    "tx": -1.3333,
+    "ty": 0
+  },
+  "raw_sha256": "0283e87b4112e27209335cfee0f77fcb8adaad3bfa8daca15030367271709d23",
+  "subject": "an old sunken stone road: worn, rounded grey-brown fieldstone cobbles set in packed earth, many missing, gravel and a little grass between them; low micro-contrast and an even overall value, so identical and neighbouring tiles blend seamlessly",
+  "texture_bytes": 1048576,
+  "asset": "assets/terrain/caps/road_02.png",
+  "asset_sha256": "f5dfd86dac3b6ee94403e266ba54e81f2121631f648fc58892113950975a5db5",
+  "prompt": "prompts/battlefield/road_02.txt",
+  "template_family": "hex_cap",
+  "style_reference": [
+    "references/hex_cap_1.png"
+  ]
+}

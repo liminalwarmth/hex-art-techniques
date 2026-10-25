@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 1236 edge px",
+    "size: 120 px (120)",
+    "lit from upper left: 1.20x"
+  ],
+  "date": "2026-10-25T09:08:50Z",
+  "dimensions": {
+    "height": 160,
+    "scale": 4,
+    "width": 160
+  },
+  "family": "doodad",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.9108,
+    "tx": -2.1746,
+    "ty": 9.8216
+  },
+  "raw_sha256": "f12ce82b79ebd98eb277f080ea367036c0ee7763c8a0f19a1dcacc6021612e7a",
+  "subject": "a cluster of five mixed pine and beech trees, a few leaves turning russet, lit by a low sun from the upper left: upper-left sides bright, lower-right sides in shade",
+  "texture_bytes": 102400,
+  "variant": "forest",
+  "asset": "assets/worldmap/doodads/forest_06.png",
+  "asset_sha256": "8635fd55d69a6d5e90b4d7246227d9ccae0822a918170cd5ad42d6f1cd661b5b",
+  "prompt": "prompts/overworld/forest_06.txt",
+  "template_family": "doodad",
+  "style_reference": [
+    "references/doodad_1.png"
+  ]
+}

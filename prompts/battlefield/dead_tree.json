@@ -1,0 +1,33 @@
+{
+  "attempt": 2,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 6512 edge px",
+    "size: 600 px (600)",
+    "lit from upper left: 1.06x"
+  ],
+  "date": "2026-10-25T09:22:04Z",
+  "dimensions": {
+    "height": 704,
+    "scale": 2,
+    "width": 640
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.8689,
+    "tx": -40.5691,
+    "ty": 35.7561
+  },
+  "raw_sha256": "8089a1bd1137bed635de0563a23825a85c7fcb37a91e6b60825a514a3bd99d6b",
+  "subject": "a dead leafless tree with a weathered silver-grey trunk, twisted bare branches and one broken limb, lit by a low sun from the upper left: its upper-left faces bright and warm, its lower-right faces in deep cool shade",
+  "texture_bytes": 1802240,
+  "variant": "tree",
+  "asset": "assets/environment/props/dead_tree.png",
+  "asset_sha256": "5dc684a3d6158f92cced5742adef41d6beed00b3e5abfb8ef9db8bbefe269da6",
+  "prompt": "prompts/battlefield/dead_tree.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

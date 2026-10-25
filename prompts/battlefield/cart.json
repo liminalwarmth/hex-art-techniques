@@ -1,0 +1,33 @@
+{
+  "attempt": 3,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 1645 edge px",
+    "size: 176 px (176)",
+    "lit from upper left: 1.00x"
+  ],
+  "date": "2026-10-25T09:30:09Z",
+  "dimensions": {
+    "height": 320,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.7484,
+    "tx": 46.3004,
+    "ty": -4.0417
+  },
+  "raw_sha256": "884a1c38312dc93b3b8008dd064300d091223864d0e3310232b3ab47f738ea54",
+  "subject": "an abandoned broken wooden farm cart seen from the side at three-quarter view: one wheel off and leaning against its right side, its bed tilted down to the ground, weathered grey-brown planks, lit by a low sun from the upper left: its upper-left faces bright and warm, its lower-right faces in deep cool shade",
+  "texture_bytes": 655360,
+  "variant": "cart",
+  "asset": "assets/environment/props/cart.png",
+  "asset_sha256": "957cc01b2662d02f50f261aefc62cf60225a6d9d119aa225a548ef1d1f32f331",
+  "prompt": "prompts/battlefield/cart.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

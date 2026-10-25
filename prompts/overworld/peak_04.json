@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 1 of 678 edge px",
+    "size: 180 px (180)",
+    "lit from upper left: 1.46x"
+  ],
+  "date": "2026-10-25T09:12:04Z",
+  "dimensions": {
+    "height": 224,
+    "scale": 4,
+    "width": 256
+  },
+  "family": "doodad",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.8441,
+    "tx": -4.1003,
+    "ty": -1.8171
+  },
+  "raw_sha256": "e52601a510d96be7c5a958ff8d9052982498cc894c42c1b9f6b9a3d83f6ef38f",
+  "subject": "a tall, sharp snow-capped mountain peak with dark rock ridges, lit by a low sun from the upper left: upper-left sides bright, lower-right sides in shade",
+  "texture_bytes": 229376,
+  "variant": "peak",
+  "asset": "assets/worldmap/doodads/peak_04.png",
+  "asset_sha256": "ee0e155ca7d83f4d1e31248ad943b19a8fde352044392f2e7863bdeadbe3637c",
+  "prompt": "prompts/overworld/peak_04.txt",
+  "template_family": "doodad",
+  "style_reference": [
+    "references/doodad_1.png"
+  ]
+}

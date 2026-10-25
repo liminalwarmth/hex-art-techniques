@@ -1,0 +1,35 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 438 edge px",
+    "zone overlap: IoU 0.998",
+    "scale: 1.031",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.000 cut beyond the 6 px fringe"
+  ],
+  "date": "2026-10-25T08:59:55Z",
+  "dimensions": {
+    "height": 152,
+    "scale": 4,
+    "width": 136
+  },
+  "family": "world_tile",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0312,
+    "scale_error": 0.0312,
+    "tx": 0,
+    "ty": 0
+  },
+  "raw_sha256": "afa5659b9492c458f07fe224ee92a9da181193d422cdb97a10d520c80f9f8d5c",
+  "subject": "calm shallow lake water, blue-green with soft ripples and a slightly darker middle",
+  "texture_bytes": 82688,
+  "variant": "ground",
+  "asset": "assets/worldmap/tiles/shallow_02.png",
+  "asset_sha256": "e536bed90dbb75cd3e86b3060f18f7f4d86bcb2e26721c6b432063b44e113884",
+  "prompt": "prompts/overworld/shallow_02.txt",
+  "template_family": "world_tile",
+  "style_reference": [
+    "references/world_tile_1.png"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "attempt": 6,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 2 of 1067 edge px",
+    "size: 104 px (104)",
+    "lit from upper left: 1.39x"
+  ],
+  "date": "2026-10-25T09:35:03Z",
+  "dimensions": {
+    "height": 160,
+    "scale": 2,
+    "width": 224
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.7864,
+    "tx": -3.2499,
+    "ty": -0.3176
+  },
+  "raw_sha256": "42db9e98b6af3d0f9910c63724ea4e63c9d0bb4df66dff93c007140227a5cac8",
+  "subject": "a dense, rounded tussock of coarse olive grass with short thick blades, painted with broad, thick blades and leaves and no hair-thin wisps or pale tips, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 143360,
+  "variant": "clutter",
+  "asset": "assets/environment/clutter/tuft_06.png",
+  "asset_sha256": "7376bb52e865a28083cf22d1d17783e52ce622de39f9ef7a7806ff73ee7de293",
+  "prompt": "prompts/battlefield/tuft_06.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

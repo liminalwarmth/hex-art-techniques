@@ -1,0 +1,34 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 1051 edge px",
+    "zone overlap: IoU 0.988",
+    "scale: 1.044",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.000 cut beyond the 16 px fringe"
+  ],
+  "date": "2026-10-25T08:58:52Z",
+  "dimensions": {
+    "height": 512,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "hex_cap",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0437,
+    "scale_error": 0.0437,
+    "tx": -1.3333,
+    "ty": 0
+  },
+  "raw_sha256": "6c62e4d3a8e2feef0dbb7e04f9b09d43ffa8f17a6d4693a81c7ebc25f3a2acdf",
+  "subject": "shallow stream water in a muted slate blue-teal with soft ripples, a few submerged rounded stones and one drifting leaf; low micro-contrast and an even overall value, so identical and neighbouring tiles blend seamlessly",
+  "texture_bytes": 1048576,
+  "asset": "assets/terrain/caps/water_02.png",
+  "asset_sha256": "75d502d5c8de4f44f23c6177288a4e57ac13ef4de05c998958cf812aa508ba77",
+  "prompt": "prompts/battlefield/water_02.txt",
+  "template_family": "hex_cap",
+  "style_reference": [
+    "references/hex_cap_1.png"
+  ]
+}

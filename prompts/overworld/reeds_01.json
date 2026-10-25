@@ -1,0 +1,33 @@
+{
+  "attempt": 2,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 1 of 770 edge px",
+    "size: 55 px (56)",
+    "lit from upper left: 1.09x"
+  ],
+  "date": "2026-10-25T09:27:52Z",
+  "dimensions": {
+    "height": 96,
+    "scale": 4,
+    "width": 128
+  },
+  "family": "doodad",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.7751,
+    "tx": -2.2402,
+    "ty": -1.9516
+  },
+  "raw_sha256": "38aeb13fc226d8a870e1039dc8b186ffa164a475a72b9cd0cb6ecb482b64b265",
+  "subject": "a clump of tall marsh reeds and brown cattails, lit by a low sun from the upper left: upper-left sides bright, lower-right sides in shade",
+  "texture_bytes": 49152,
+  "variant": "reeds",
+  "asset": "assets/worldmap/doodads/reeds_01.png",
+  "asset_sha256": "0d63a7a4d3cfd9618bf2619b0cbaa5cb8ea4dade0382b455ad8fb250dccdbfac",
+  "prompt": "prompts/overworld/reeds_01.txt",
+  "template_family": "doodad",
+  "style_reference": [
+    "references/doodad_1.png"
+  ]
+}

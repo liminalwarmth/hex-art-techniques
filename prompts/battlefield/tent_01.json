@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 2246 edge px",
+    "size: 320 px (320)",
+    "lit from upper left: 1.04x"
+  ],
+  "date": "2026-10-25T09:11:16Z",
+  "dimensions": {
+    "height": 416,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.9188,
+    "tx": -52.9972,
+    "ty": 0.4877
+  },
+  "raw_sha256": "5a3a9af319b0b92363c96d6311f316bd8a62d527c4102289f1b09daa6f90aaa4",
+  "subject": "a bandit camp tent: a patched and stained ridge tent of dull brown canvas on crude poles, its front flap open, guy ropes pegged out, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 851968,
+  "variant": "tent",
+  "asset": "assets/environment/props/tent_01.png",
+  "asset_sha256": "e985ec96f14d637f1d021644fbc92b54a6087660fa8ec3813bf614216fe0168a",
+  "prompt": "prompts/battlefield/tent_01.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

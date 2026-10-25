@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 1574 edge px",
+    "size: 96 px (96)",
+    "lit from upper left: 1.14x"
+  ],
+  "date": "2026-10-25T09:08:25Z",
+  "dimensions": {
+    "height": 192,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.6718,
+    "tx": -52.9781,
+    "ty": 6.08
+  },
+  "raw_sha256": "548e506eaaf777a5204f0b8aff7226902381e1722f2a50a4dc5f4f6b29ec702c",
+  "subject": "a short stretch of woven wattle fence of hazel withies between stakes, partly broken, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 393216,
+  "variant": "fence",
+  "asset": "assets/environment/props/fence_02.png",
+  "asset_sha256": "a488c2f447ca63a6b687342108ae10742ca2dcf3ba1dd7b0592cd58176b7d859",
+  "prompt": "prompts/battlefield/fence_02.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

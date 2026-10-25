@@ -1,0 +1,22 @@
+{
+  "references/hex_cap_1.png": {
+    "description": "Crop of the original approved style mockup",
+    "family": "hex_cap"
+  },
+  "references/cliff_band_1.png": {
+    "description": "Crop of the original approved style mockup",
+    "family": "cliff_band"
+  },
+  "references/prop_1.png": {
+    "description": "Crop of the original approved style mockup",
+    "family": "prop"
+  },
+  "references/world_tile_1.png": {
+    "description": "Crop of the original approved style mockup",
+    "family": "world_tile"
+  },
+  "references/doodad_1.png": {
+    "description": "Crop of the original approved style mockup",
+    "family": "doodad"
+  }
+}

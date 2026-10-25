@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 803 edge px",
+    "size: 224 px (224)",
+    "lit from upper left: 1.56x"
+  ],
+  "date": "2026-10-25T09:06:37Z",
+  "dimensions": {
+    "height": 288,
+    "scale": 2,
+    "width": 288
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.9933,
+    "tx": -0.859,
+    "ty": 0.7273
+  },
+  "raw_sha256": "9a1ad50869e575c46a782cedea9c970cffab3ded1267c970620b1532b58b61ac",
+  "subject": "a broad flat-topped boulder half sunk into the ground, mossy along its top, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 331776,
+  "variant": "rock",
+  "asset": "assets/environment/props/boulder_03.png",
+  "asset_sha256": "57de73aa5d8f348a7fef2048ad174250fffc51823c6074c015d8754631b8dede",
+  "prompt": "prompts/battlefield/boulder_03.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

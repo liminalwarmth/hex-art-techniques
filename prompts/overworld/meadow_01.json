@@ -1,0 +1,35 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 409 edge px",
+    "zone overlap: IoU 0.996",
+    "scale: 1.025",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.000 cut beyond the 6 px fringe"
+  ],
+  "date": "2026-10-25T05:59:13Z",
+  "dimensions": {
+    "height": 152,
+    "scale": 4,
+    "width": 136
+  },
+  "family": "world_tile",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.025,
+    "scale_error": 0.025,
+    "tx": 0,
+    "ty": 0
+  },
+  "raw_sha256": "21680e006e62e19e6277b37557a2842d61b01662b344f64e8a92ac67ab70d062",
+  "subject": "a temperate meadow: soft green grass with tiny pale wildflower specks and faint trodden patches",
+  "texture_bytes": 82688,
+  "variant": "ground",
+  "asset": "assets/worldmap/tiles/meadow_01.png",
+  "asset_sha256": "d39ae8df7751ee9deef572b67e70c1059c10f44762123f3f33bbfdb765e4d7f4",
+  "prompt": "prompts/overworld/meadow_01.txt",
+  "template_family": "world_tile",
+  "style_reference": [
+    "references/world_tile_1.png"
+  ]
+}

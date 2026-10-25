@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 884 edge px",
+    "size: 224 px (224)",
+    "lit from upper left: 1.32x"
+  ],
+  "date": "2026-10-25T09:07:38Z",
+  "dimensions": {
+    "height": 288,
+    "scale": 2,
+    "width": 288
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.9512,
+    "tx": -5.5836,
+    "ty": -1.0021
+  },
+  "raw_sha256": "420832b585d8487c8e18b5fd631902ba33e36726c038a889197b26ed6e248e12",
+  "subject": "a boulder split in two by a deep crack, its halves patched with pale lichen, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 331776,
+  "variant": "rock",
+  "asset": "assets/environment/props/boulder_04.png",
+  "asset_sha256": "688dab1d997d4652ef1bcce81941c4ac20e32ee247877a25d65b1d0691f706bd",
+  "prompt": "prompts/battlefield/boulder_04.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

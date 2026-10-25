@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 499 edge px",
+    "size: 40 px (40)",
+    "lit from upper left: 1.19x"
+  ],
+  "date": "2026-10-25T09:17:13Z",
+  "dimensions": {
+    "height": 128,
+    "scale": 2,
+    "width": 288
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.5498,
+    "tx": -11.8409,
+    "ty": 11.1065
+  },
+  "raw_sha256": "725440fe030afe17c3914ca2e8d54ffe9a9c4df79e848d728ff45646b517da02",
+  "subject": "a broken ribcage and a rusted iron helmet lying flat on the ground, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 147456,
+  "variant": "scatter",
+  "asset": "assets/environment/clutter/bones_02.png",
+  "asset_sha256": "78a1cd5e63a5192f0bc470b62cf2378f2e4e5abb6cf35f91c132e40c43729d41",
+  "prompt": "prompts/battlefield/bones_02.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

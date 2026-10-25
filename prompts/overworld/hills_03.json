@@ -1,0 +1,35 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 427 edge px",
+    "zone overlap: IoU 0.995",
+    "scale: 1.025",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.000 cut beyond the 6 px fringe"
+  ],
+  "date": "2026-10-25T08:56:15Z",
+  "dimensions": {
+    "height": 152,
+    "scale": 4,
+    "width": 136
+  },
+  "family": "world_tile",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.025,
+    "scale_error": 0.025,
+    "tx": 0,
+    "ty": 0
+  },
+  "raw_sha256": "aaa1bbbe79756a37025e57162ea4fef9891a56087741aedd68126758cc0756f9",
+  "subject": "rolling grassy upland with a few low grey rock outcrops and patches of dry yellow grass",
+  "texture_bytes": 82688,
+  "variant": "ground",
+  "asset": "assets/worldmap/tiles/hills_03.png",
+  "asset_sha256": "4759bd9a9c8a230448e4cbfb5a9ea6f991d73cc464d6de7729e9d949b5cf0ff8",
+  "prompt": "prompts/overworld/hills_03.txt",
+  "template_family": "world_tile",
+  "style_reference": [
+    "references/world_tile_1.png"
+  ]
+}

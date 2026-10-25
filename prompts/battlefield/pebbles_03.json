@@ -1,0 +1,33 @@
+{
+  "attempt": 1,
+  "checks": [
+    "not clipped: 0 border px",
+    "no light halo: 0 of 363 edge px",
+    "size: 40 px (40)",
+    "lit from upper left: 1.18x"
+  ],
+  "date": "2026-10-25T09:16:26Z",
+  "dimensions": {
+    "height": 128,
+    "scale": 2,
+    "width": 288
+  },
+  "family": "prop",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.7583,
+    "tx": -11.9548,
+    "ty": 4.891
+  },
+  "raw_sha256": "f10a7b338a95236597308d67a07c2635fc5f267e679db5d16d2c3b7c55b54d83",
+  "subject": "a half-buried flat grey stone with small pebbles around it, lit strongly from the upper left: its upper-left side bright, its lower-right side in shade",
+  "texture_bytes": 147456,
+  "variant": "scatter",
+  "asset": "assets/environment/clutter/pebbles_03.png",
+  "asset_sha256": "ae5c4c84de828a031e10eb1b3221496c1e3010fe9ffa4c6178bfe4fbf8364adc",
+  "prompt": "prompts/battlefield/pebbles_03.txt",
+  "template_family": "prop",
+  "style_reference": [
+    "references/prop_1.png"
+  ]
+}

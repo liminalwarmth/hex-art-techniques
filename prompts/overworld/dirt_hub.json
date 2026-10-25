@@ -1,0 +1,35 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 103 edge px",
+    "zone overlap: IoU 0.972",
+    "scale: 0.990",
+    "fills its zone: 1.000 opaque",
+    "stays in its hex: 0.001 cut beyond the 6 px fringe"
+  ],
+  "date": "2026-10-25T09:24:38Z",
+  "dimensions": {
+    "height": 152,
+    "scale": 4,
+    "width": 136
+  },
+  "family": "world_tile",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 0.9896,
+    "scale_error": -0.0104,
+    "tx": 0,
+    "ty": 0
+  },
+  "raw_sha256": "1a0d3ea980277296c348233d237eb0a883728c6148ae8e4dd299ef6aefa1de4c",
+  "subject": "a small round patch of packed, rutted brown earth with a few pebbles, where dirt roads meet,",
+  "texture_bytes": 82688,
+  "variant": "hub",
+  "asset": "assets/worldmap/roads/dirt_hub.png",
+  "asset_sha256": "a3852048561b169cf3a5cac3f0da4b78b07c8602585af1eeaf8f4ecf20a294de",
+  "prompt": "prompts/overworld/dirt_hub.txt",
+  "template_family": "world_tile",
+  "style_reference": [
+    "references/world_tile_1.png"
+  ]
+}

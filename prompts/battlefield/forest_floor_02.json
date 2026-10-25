@@ -1,0 +1,34 @@
+{
+  "attempt": 1,
+  "checks": [
+    "no light halo: 0 of 1275 edge px",
+    "zone overlap: IoU 0.984",
+    "scale: 1.044",
+    "fills its zone: 0.997 opaque",
+    "stays in its hex: 0.000 cut beyond the 16 px fringe"
+  ],
+  "date": "2026-10-25T08:57:10Z",
+  "dimensions": {
+    "height": 512,
+    "scale": 2,
+    "width": 512
+  },
+  "family": "hex_cap",
+  "generator": "codex-cli 0.164.0 built-in image generation",
+  "placement": {
+    "scale": 1.0437,
+    "scale_error": 0.0437,
+    "tx": -1.3333,
+    "ty": 0
+  },
+  "raw_sha256": "eab11564dc7a1467ead6b7540c09685d0be2cd1c80ef720e41c28262856c5307",
+  "subject": "a temperate forest floor: soft muted green moss and brown pine needles, a few small ferns and one half-buried root; low micro-contrast and an even overall value, so identical and neighbouring tiles blend seamlessly",
+  "texture_bytes": 1048576,
+  "asset": "assets/terrain/caps/forest_floor_02.png",
+  "asset_sha256": "31803a60c217f7b268cdb493c0a2a43c6ab5f8baf708ee3b2eae5c98f5ee2714",
+  "prompt": "prompts/battlefield/forest_floor_02.txt",
+  "template_family": "hex_cap",
+  "style_reference": [
+    "references/hex_cap_1.png"
+  ]
+}
